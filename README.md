@@ -12,4 +12,5 @@ Conversions of Vanilla and DLC clothing and armor to [True Wasteland Body](https
 3. Build the outfits with Bodyslide
 
 ### Notes
-For now, this repository is rapidly changing. You could be updating these files daily.
+For now, this repository is rapidly changing. You could be updating these files daily.  
+Some outfits with be subdivided to provide increased detail when morphed.
