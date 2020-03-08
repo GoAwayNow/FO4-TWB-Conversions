@@ -13659,4 +13659,2156 @@
             <Data name="PantyBody Vanilla Coke" target="Panty" local="true">House Dress B.osd\PantyBody Vanilla Coke</Data>
         </Slider>
     </SliderSet>
+    <SliderSet name="TWB Vanilla - Short Sleeves">
+        <DataFolder>TWB Vanilla</DataFolder>
+        <SourceFile>Short Sleeves.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\ShortSleeves</OutputPath>
+        <OutputFile GenWeights="false">FOutfit</OutputFile>
+        <Shape target="FOutfit_0">FOutfit_0</Shape>
+        <Shape target="True Wasteland Body" DataFolder="CBBE">True Wasteland Body</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreasts</Data>
+            <Data name="FOutfit_0Breasts" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Breasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_0BreastsCleavage" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastsGone</Data>
+            <Data name="FOutfit_0BreastsGone" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastsNewSH</Data>
+            <Data name="FOutfit_0BreastsNewSH" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastsSmall</Data>
+            <Data name="FOutfit_0BreastsSmall" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastsSmall2</Data>
+            <Data name="FOutfit_0BreastsSmall2" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_0BreastsTogether" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastTopSlope</Data>
+            <Data name="FOutfit_0BreastTopSlope" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastWidth</Data>
+            <Data name="FOutfit_0BreastWidth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEButt</Data>
+            <Data name="FOutfit_0Butt" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Butt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEButtCrack</Data>
+            <Data name="FOutfit_0ButtCrack" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEButtNew</Data>
+            <Data name="FOutfit_0ButtNew" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEButtShape2</Data>
+            <Data name="FOutfit_0ButtShape2" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEButtSmall</Data>
+            <Data name="FOutfit_0ButtSmall" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBECalfSize</Data>
+            <Data name="FOutfit_0CalfSize" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBECalfSmooth</Data>
+            <Data name="FOutfit_0CalfSmooth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEChestDepth</Data>
+            <Data name="FOutfit_0ChestDepth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEChestWidth</Data>
+            <Data name="FOutfit_0ChestWidth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEChubbyArms</Data>
+            <Data name="FOutfit_0ChubbyArms" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEChubbyButt</Data>
+            <Data name="FOutfit_0ChubbyButt" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEChubbyLegs</Data>
+            <Data name="FOutfit_0ChubbyLegs" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEChubbyWaist</Data>
+            <Data name="FOutfit_0ChubbyWaist" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBECrotchBack</Data>
+            <Data name="FOutfit_0CrotchBack" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0CrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEDoubleMelon</Data>
+            <Data name="FOutfit_0DoubleMelon" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0DoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEGroin</Data>
+            <Data name="FOutfit_0Groin" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Groin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEHipBack</Data>
+            <Data name="FOutfit_0HipBack" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0HipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEHipBone</Data>
+            <Data name="FOutfit_0HipBone" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0HipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEHips</Data>
+            <Data name="FOutfit_0Hips" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEHipUpperWidth</Data>
+            <Data name="FOutfit_0HipUpperWidth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0HipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEKneeHeight</Data>
+            <Data name="FOutfit_0KneeHeight" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0KneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBELegShape</Data>
+            <Data name="FOutfit_0LegShape" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0LegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBELegsThin</Data>
+            <Data name="FOutfit_0LegsThin" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0LegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENipBGone</Data>
+            <Data name="FOutfit_0NipBGone" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleAreola</Data>
+            <Data name="FOutfit_0NippleAreola" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleDistance</Data>
+            <Data name="FOutfit_0NippleDistance" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleDown</Data>
+            <Data name="FOutfit_0NippleDown" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleLength</Data>
+            <Data name="FOutfit_0NippleLength" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENipplePerk2</Data>
+            <Data name="FOutfit_0NipplePerk2" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_0NipplePerkiness" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleSize</Data>
+            <Data name="FOutfit_0NippleSize" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleTip</Data>
+            <Data name="FOutfit_0NippleTip" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleUp</Data>
+            <Data name="FOutfit_0NippleUp" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEPregnancyBelly</Data>
+            <Data name="FOutfit_0PregnancyBelly" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0PregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEPushUp</Data>
+            <Data name="FOutfit_0PushUp" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0PushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBERoundAss</Data>
+            <Data name="FOutfit_0RoundAss" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0RoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEShoulderSmooth</Data>
+            <Data name="FOutfit_0ShoulderSmooth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEShoulderTweak</Data>
+            <Data name="FOutfit_0ShoulderTweak" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEShoulderWidth</Data>
+            <Data name="FOutfit_0ShoulderWidth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBESlimThighs</Data>
+            <Data name="FOutfit_0SlimThighs" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0SlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBESternumDepth</Data>
+            <Data name="FOutfit_0SternumDepth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0SternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBESternumHeight</Data>
+            <Data name="FOutfit_0SternumHeight" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0SternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEThighs</Data>
+            <Data name="FOutfit_0Thighs" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBETummyTuck</Data>
+            <Data name="FOutfit_0TummyTuck" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0TummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEVanillaFo4</Data>
+            <Data name="FOutfit_0VanillaFo4" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0VanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEWaist</Data>
+            <Data name="FOutfit_0Waist" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Waist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEWaistHeight</Data>
+            <Data name="FOutfit_0WaistHeight" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0WaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEWideWaistLine</Data>
+            <Data name="FOutfit_0WideWaistLine" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0WideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEAnkles</Data>
+            <Data name="FOutfit_0Ankles" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Ankles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEAppleCheeks</Data>
+            <Data name="FOutfit_0AppleCheeks" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0AppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEArms</Data>
+            <Data name="FOutfit_0Arms" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBack</Data>
+            <Data name="FOutfit_0Back" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBackArch</Data>
+            <Data name="FOutfit_0BackArch" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBelly</Data>
+            <Data name="FOutfit_0Belly" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBigBelly</Data>
+            <Data name="FOutfit_0BigBelly" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBigButt</Data>
+            <Data name="FOutfit_0BigButt" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBigTorso</Data>
+            <Data name="FOutfit_0BigTorso" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastCenter</Data>
+            <Data name="FOutfit_0BreastCenter" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_0BreastCenterBig" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastFantasy</Data>
+            <Data name="FOutfit_0BreastFantasy" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_0BreastFlatness2" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastGravity2</Data>
+            <Data name="FOutfit_0BreastGravity2" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEBreastHeight</Data>
+            <Data name="FOutfit_0BreastHeight" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_0BreastPerkiness" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEArmpitHeight</Data>
+            <Data name="FOutfit_0ArmpitHeight" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEForearmSize</Data>
+            <Data name="FOutfit_0ForearmSize" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0ForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleShape</Data>
+            <Data name="FOutfit_0NippleShape" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBENippleTwistUp</Data>
+            <Data name="FOutfit_0NippleTwistUp" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0NippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBE7B Upper</Data>
+            <Data name="FOutfit_07B Upper" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_07B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBE7B Lower</Data>
+            <Data name="FOutfit_07B Lower" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_07B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEMuscularChest</Data>
+            <Data name="FOutfit_0MuscularChest" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0MuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEMuscularArms</Data>
+            <Data name="FOutfit_0MuscularArms" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0MuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEMuscularButt</Data>
+            <Data name="FOutfit_0MuscularButt" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0MuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="True Wasteland Body" local="true">Short Sleeves.osd\CBBEMuscularLegs</Data>
+            <Data name="FOutfit_0MuscularLegs" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0MuscularLegs</Data>
+        </Slider>
+        <Slider name="BodyZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="True Wasteland BodyBodyZap" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBodyZap</Data>
+        </Slider>
+        <Slider name="FFB Fitness Less" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Less" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyFFB Fitness Less</Data>
+            <Data name="FOutfit_0FFB Fitness Less" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0FFB Fitness Less</Data>
+        </Slider>
+        <Slider name="FFB Fitness More" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness More" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyFFB Fitness More</Data>
+            <Data name="FOutfit_0FFB Fitness More" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0FFB Fitness More</Data>
+        </Slider>
+        <Slider name="FFB Fitness Very" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Very" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyFFB Fitness Very</Data>
+            <Data name="FOutfit_0FFB Fitness Very" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0FFB Fitness Very</Data>
+        </Slider>
+        <Slider name="FFB High Heels Feet" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB High Heels Feet" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyFFB High Heels Feet</Data>
+            <Data name="FOutfit_0FFB High Heels Feet" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0FFB High Heels Feet</Data>
+        </Slider>
+        <Slider name="CBBE to FFB" invert="false" default="0">
+            <Data name="True Wasteland BodyCBBE to FFB" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyCBBE to FFB</Data>
+            <Data name="FOutfit_0CBBE to FFB" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0CBBE to FFB</Data>
+        </Slider>
+        <Slider name="Athlete" invert="false" default="0">
+            <Data name="True Wasteland BodyAthlete" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyAthlete</Data>
+            <Data name="FOutfit_0Athlete" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Athlete</Data>
+        </Slider>
+        <Slider name="BodyBuilder" invert="false" default="0">
+            <Data name="True Wasteland BodyBodyBuilder" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBodyBuilder</Data>
+            <Data name="FOutfit_0BodyBuilder" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BodyBuilder</Data>
+        </Slider>
+        <Slider name="Muscle Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscle Definition" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyMuscle Definition</Data>
+            <Data name="FOutfit_0Muscle Definition" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Muscle Definition</Data>
+        </Slider>
+        <Slider name="Fitness" invert="false" default="0">
+            <Data name="True Wasteland BodyFitness" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyFitness</Data>
+            <Data name="FOutfit_0Fitness" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Fitness</Data>
+        </Slider>
+        <Slider name="Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyTone" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyTone</Data>
+            <Data name="FOutfit_0Tone" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Tone</Data>
+        </Slider>
+        <Slider name="Shades " invert="false" default="0">
+            <Data name="True Wasteland BodyShades " target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyShades </Data>
+            <Data name="FOutfit_0Shades " target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Shades </Data>
+        </Slider>
+        <Slider name="Dibella" invert="false" default="0">
+            <Data name="True Wasteland BodyDibella" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyDibella</Data>
+            <Data name="FOutfit_0Dibella" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Dibella</Data>
+        </Slider>
+        <Slider name="Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyAtomic Beauty" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyAtomic Beauty</Data>
+            <Data name="FOutfit_0Atomic Beauty" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Atomic Beauty</Data>
+        </Slider>
+        <Slider name="Big Soft Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Soft Belly" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBig Soft Belly</Data>
+            <Data name="FOutfit_0Big Soft Belly" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Big Soft Belly</Data>
+        </Slider>
+        <Slider name="Explosion" invert="false" default="0">
+            <Data name="True Wasteland BodyExplosion" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyExplosion</Data>
+            <Data name="FOutfit_0Explosion" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Explosion</Data>
+        </Slider>
+        <Slider name="BBW" invert="false" default="0">
+            <Data name="True Wasteland BodyBBW" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBBW</Data>
+            <Data name="FOutfit_0BBW" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0BBW</Data>
+        </Slider>
+        <Slider name="Xun ABS" invert="false" default="0">
+            <Data name="True Wasteland BodyXun ABS" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyXun ABS</Data>
+            <Data name="FOutfit_0Xun ABS" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Xun ABS</Data>
+        </Slider>
+        <Slider name="Boob Concave" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Concave" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBoob Concave</Data>
+            <Data name="FOutfit_0Boob Concave" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Boob Concave</Data>
+        </Slider>
+        <Slider name="Belly Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Smooth" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Smooth</Data>
+            <Data name="FOutfit_0Belly Smooth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Smooth</Data>
+        </Slider>
+        <Slider name="AB Template" invert="false" default="0">
+            <Data name="True Wasteland BodyAB Template" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyAB Template</Data>
+            <Data name="FOutfit_0AB Template" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0AB Template</Data>
+        </Slider>
+        <Slider name="Real Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyReal Atomic Beauty" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyReal Atomic Beauty</Data>
+            <Data name="FOutfit_0Real Atomic Beauty" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Real Atomic Beauty</Data>
+        </Slider>
+        <Slider name="New Atomic" invert="false" default="0">
+            <Data name="True Wasteland BodyNew Atomic" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyNew Atomic</Data>
+            <Data name="FOutfit_0New Atomic" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0New Atomic</Data>
+        </Slider>
+        <Slider name="Narrow Hips" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Hips" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyNarrow Hips</Data>
+            <Data name="FOutfit_0Narrow Hips" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Narrow Hips</Data>
+        </Slider>
+        <Slider name="Leg Slimmer" invert="false" default="0">
+            <Data name="True Wasteland BodyLeg Slimmer" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyLeg Slimmer</Data>
+            <Data name="FOutfit_0Leg Slimmer" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Leg Slimmer</Data>
+        </Slider>
+        <Slider name="More Chest Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Chest Depth" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyMore Chest Depth</Data>
+            <Data name="FOutfit_0More Chest Depth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0More Chest Depth</Data>
+        </Slider>
+        <Slider name="Lower Waist" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Waist" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyLower Waist</Data>
+            <Data name="FOutfit_0Lower Waist" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Lower Waist</Data>
+        </Slider>
+        <Slider name="Wider Back" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Back" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyWider Back</Data>
+            <Data name="FOutfit_0Wider Back" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Wider Back</Data>
+        </Slider>
+        <Slider name="Hips Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Forward" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyHips Forward</Data>
+            <Data name="FOutfit_0Hips Forward" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Hips Forward</Data>
+        </Slider>
+        <Slider name="Lower Back Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Back Smooth" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyLower Back Smooth</Data>
+            <Data name="FOutfit_0Lower Back Smooth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Lower Back Smooth</Data>
+        </Slider>
+        <Slider name="Smooth Thighs" invert="false" default="0">
+            <Data name="True Wasteland BodySmooth Thighs" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodySmooth Thighs</Data>
+            <Data name="FOutfit_0Smooth Thighs" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Smooth Thighs</Data>
+        </Slider>
+        <Slider name="Boob Height" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Height" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBoob Height</Data>
+            <Data name="FOutfit_0Boob Height" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Boob Height</Data>
+        </Slider>
+        <Slider name="Smaller Torso" invert="false" default="0">
+            <Data name="True Wasteland BodySmaller Torso" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodySmaller Torso</Data>
+            <Data name="FOutfit_0Smaller Torso" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Smaller Torso</Data>
+        </Slider>
+        <Slider name="Larger Nipples" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Nipples" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyLarger Nipples</Data>
+            <Data name="FOutfit_0Larger Nipples" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Larger Nipples</Data>
+        </Slider>
+        <Slider name="Wider Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Ass" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyWider Ass</Data>
+            <Data name="FOutfit_0Wider Ass" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Wider Ass</Data>
+        </Slider>
+        <Slider name="Ass Stretch" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Stretch" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyAss Stretch</Data>
+            <Data name="FOutfit_0Ass Stretch" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Ass Stretch</Data>
+        </Slider>
+        <Slider name="Narrow Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Ass" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyNarrow Ass</Data>
+            <Data name="FOutfit_0Narrow Ass" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Narrow Ass</Data>
+        </Slider>
+        <Slider name="Ass Height" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Height" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyAss Height</Data>
+            <Data name="FOutfit_0Ass Height" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Ass Height</Data>
+        </Slider>
+        <Slider name="Larger Torso" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Torso" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyLarger Torso</Data>
+            <Data name="FOutfit_0Larger Torso" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Larger Torso</Data>
+        </Slider>
+        <Slider name="Muscular Body" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscular Body" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyMuscular Body</Data>
+            <Data name="FOutfit_0Muscular Body" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Muscular Body</Data>
+        </Slider>
+        <Slider name="Tigersan" invert="false" default="0">
+            <Data name="True Wasteland BodyTigersan" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyTigersan</Data>
+            <Data name="FOutfit_0Tigersan" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Tigersan</Data>
+        </Slider>
+        <Slider name="Breast Narrow" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Narrow" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBreast Narrow</Data>
+            <Data name="FOutfit_0Breast Narrow" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Breast Narrow</Data>
+        </Slider>
+        <Slider name="Breast Curve Down" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve Down" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBreast Curve Down</Data>
+            <Data name="FOutfit_0Breast Curve Down" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Breast Curve Down</Data>
+        </Slider>
+        <Slider name="Breast Curve" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBreast Curve</Data>
+            <Data name="FOutfit_0Breast Curve" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Breast Curve</Data>
+        </Slider>
+        <Slider name="Breast Armpit In" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit In" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBreast Armpit In</Data>
+            <Data name="FOutfit_0Breast Armpit In" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Breast Armpit In</Data>
+        </Slider>
+        <Slider name="Breast Armpit Wide" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit Wide" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBreast Armpit Wide</Data>
+            <Data name="FOutfit_0Breast Armpit Wide" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Breast Armpit Wide</Data>
+        </Slider>
+        <Slider name="Nipple Shape Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Shape Depth" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyNipple Shape Depth</Data>
+            <Data name="FOutfit_0Nipple Shape Depth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Nipple Shape Depth</Data>
+        </Slider>
+        <Slider name="Nipple Tips Flat" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Tips Flat" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyNipple Tips Flat</Data>
+            <Data name="FOutfit_0Nipple Tips Flat" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Nipple Tips Flat</Data>
+        </Slider>
+        <Slider name="Big Rib Cage" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Rib Cage" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBig Rib Cage</Data>
+            <Data name="FOutfit_0Big Rib Cage" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Big Rib Cage</Data>
+        </Slider>
+        <Slider name="Butt Dimples" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Dimples" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyButt Dimples</Data>
+            <Data name="FOutfit_0Butt Dimples" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Butt Dimples</Data>
+        </Slider>
+        <Slider name="Butt Thin" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Thin" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyButt Thin</Data>
+            <Data name="FOutfit_0Butt Thin" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Butt Thin</Data>
+        </Slider>
+        <Slider name="Butt Up" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Up" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyButt Up</Data>
+            <Data name="FOutfit_0Butt Up" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Butt Up</Data>
+        </Slider>
+        <Slider name="Butt Crease" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Crease" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyButt Crease</Data>
+            <Data name="FOutfit_0Butt Crease" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Butt Crease</Data>
+        </Slider>
+        <Slider name="Hips Up" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Up" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyHips Up</Data>
+            <Data name="FOutfit_0Hips Up" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Hips Up</Data>
+        </Slider>
+        <Slider name="Hip Line" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Line" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyHip Line</Data>
+            <Data name="FOutfit_0Hip Line" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Hip Line</Data>
+        </Slider>
+        <Slider name="Hip Rotate Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Rotate Forward" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyHip Rotate Forward</Data>
+            <Data name="FOutfit_0Hip Rotate Forward" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Hip Rotate Forward</Data>
+        </Slider>
+        <Slider name="Pelvis Up" invert="false" default="0">
+            <Data name="True Wasteland BodyPelvis Up" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyPelvis Up</Data>
+            <Data name="FOutfit_0Pelvis Up" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Pelvis Up</Data>
+        </Slider>
+        <Slider name="Pussy Down" invert="false" default="0">
+            <Data name="True Wasteland BodyPussy Down" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyPussy Down</Data>
+            <Data name="FOutfit_0Pussy Down" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Pussy Down</Data>
+        </Slider>
+        <Slider name="Thigh Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Tone" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyThigh Tone</Data>
+            <Data name="FOutfit_0Thigh Tone" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thigh Tone</Data>
+        </Slider>
+        <Slider name="Thigh Together" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Together" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyThigh Together</Data>
+            <Data name="FOutfit_0Thigh Together" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thigh Together</Data>
+        </Slider>
+        <Slider name="Thigh Apart" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Apart" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyThigh Apart</Data>
+            <Data name="FOutfit_0Thigh Apart" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thigh Apart</Data>
+        </Slider>
+        <Slider name="Thigh Back Thick" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Back Thick" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyThigh Back Thick</Data>
+            <Data name="FOutfit_0Thigh Back Thick" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thigh Back Thick</Data>
+        </Slider>
+        <Slider name="Thigh Gap" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Gap" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyThigh Gap</Data>
+            <Data name="FOutfit_0Thigh Gap" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thigh Gap</Data>
+        </Slider>
+        <Slider name="Knee Detail" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Detail" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyKnee Detail</Data>
+            <Data name="FOutfit_0Knee Detail" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Knee Detail</Data>
+        </Slider>
+        <Slider name="Abdomin Down" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Down" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyAbdomin Down</Data>
+            <Data name="FOutfit_0Abdomin Down" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Abdomin Down</Data>
+        </Slider>
+        <Slider name="Abdomin Size" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Size" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyAbdomin Size</Data>
+            <Data name="FOutfit_0Abdomin Size" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Abdomin Size</Data>
+        </Slider>
+        <Slider name="Smoother Belly" invert="false" default="0">
+            <Data name="True Wasteland BodySmoother Belly" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodySmoother Belly</Data>
+            <Data name="FOutfit_0Smoother Belly" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Smoother Belly</Data>
+        </Slider>
+        <Slider name="Belly Define" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Define" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Define</Data>
+            <Data name="FOutfit_0Belly Define" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Define</Data>
+        </Slider>
+        <Slider name="Belly Diameter" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Diameter" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Diameter</Data>
+            <Data name="FOutfit_0Belly Diameter" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Diameter</Data>
+        </Slider>
+        <Slider name="Belly Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Up" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Up</Data>
+            <Data name="FOutfit_0Belly Up" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Up</Data>
+        </Slider>
+        <Slider name="Belly Tight" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Tight" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Tight</Data>
+            <Data name="FOutfit_0Belly Tight" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Tight</Data>
+        </Slider>
+        <Slider name="Belly In" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly In" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly In</Data>
+            <Data name="FOutfit_0Belly In" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly In</Data>
+        </Slider>
+        <Slider name="Belly Rotate Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Rotate Up" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Rotate Up</Data>
+            <Data name="FOutfit_0Belly Rotate Up" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Rotate Up</Data>
+        </Slider>
+        <Slider name="Belly Wider" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Wider" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Wider</Data>
+            <Data name="FOutfit_0Belly Wider" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Wider</Data>
+        </Slider>
+        <Slider name="Chest Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyChest Definition" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyChest Definition</Data>
+            <Data name="FOutfit_0Chest Definition" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Chest Definition</Data>
+        </Slider>
+        <Slider name="Belly Line" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Line" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Line</Data>
+            <Data name="FOutfit_0Belly Line" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Line</Data>
+        </Slider>
+        <Slider name="Thin Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyThin Belly" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyThin Belly</Data>
+            <Data name="FOutfit_0Thin Belly" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thin Belly</Data>
+        </Slider>
+        <Slider name="Belly Thicc" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Thicc" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBelly Thicc</Data>
+            <Data name="FOutfit_0Belly Thicc" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Belly Thicc</Data>
+        </Slider>
+        <Slider name="Biceps" invert="false" default="0">
+            <Data name="True Wasteland BodyBiceps" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBiceps</Data>
+            <Data name="FOutfit_0Biceps" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Biceps</Data>
+        </Slider>
+        <Slider name="Back Bulge" invert="false" default="0">
+            <Data name="True Wasteland BodyBack Bulge" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBack Bulge</Data>
+            <Data name="FOutfit_0Back Bulge" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Back Bulge</Data>
+        </Slider>
+        <Slider name="Thigh Muscular" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Muscular" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyThigh Muscular</Data>
+            <Data name="FOutfit_0Thigh Muscular" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thigh Muscular</Data>
+        </Slider>
+        <Slider name="Knee Thing" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Thing" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyKnee Thing</Data>
+            <Data name="FOutfit_0Knee Thing" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Knee Thing</Data>
+        </Slider>
+        <Slider name="More Abs" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Abs" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyMore Abs</Data>
+            <Data name="FOutfit_0More Abs" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0More Abs</Data>
+        </Slider>
+        <Slider name="Abdomin Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Smooth" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyAbdomin Smooth</Data>
+            <Data name="FOutfit_0Abdomin Smooth" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Abdomin Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Flex" invert="false" default="0">
+            <Data name="True Wasteland BodyShoulder Flex" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyShoulder Flex</Data>
+            <Data name="FOutfit_0Shoulder Flex" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Shoulder Flex</Data>
+        </Slider>
+        <Slider name="Plump Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyPlump Ass" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyPlump Ass</Data>
+            <Data name="FOutfit_0Plump Ass" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Plump Ass</Data>
+        </Slider>
+        <Slider name="Thicc Knees" invert="false" default="0">
+            <Data name="True Wasteland BodyThicc Knees" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyThicc Knees</Data>
+            <Data name="FOutfit_0Thicc Knees" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Thicc Knees</Data>
+        </Slider>
+        <Slider name="Upper Arm Mass" invert="false" default="0">
+            <Data name="True Wasteland BodyUpper Arm Mass" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyUpper Arm Mass</Data>
+            <Data name="FOutfit_0Upper Arm Mass" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Upper Arm Mass</Data>
+        </Slider>
+        <Slider name="Body aTightTiger" invert="false" default="0">
+            <Data name="True Wasteland BodyBody aTightTiger" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBody aTightTiger</Data>
+            <Data name="FOutfit_0Body aTightTiger" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Body aTightTiger</Data>
+        </Slider>
+        <Slider name="Body Clamp" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Clamp" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBody Clamp</Data>
+            <Data name="FOutfit_0Body Clamp" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Body Clamp</Data>
+        </Slider>
+        <Slider name="Body WINININININ" invert="false" default="0">
+            <Data name="True Wasteland BodyBody WINININININ" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBody WINININININ</Data>
+            <Data name="FOutfit_0Body WINININININ" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Body WINININININ</Data>
+        </Slider>
+        <Slider name="Body Keep" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Keep" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBody Keep</Data>
+            <Data name="FOutfit_0Body Keep" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Body Keep</Data>
+        </Slider>
+        <Slider name="Body a Soul Body" invert="false" default="0">
+            <Data name="True Wasteland BodyBody a Soul Body" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBody a Soul Body</Data>
+            <Data name="FOutfit_0Body a Soul Body" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Body a Soul Body</Data>
+        </Slider>
+        <Slider name="Body Vanilla Coke" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Vanilla Coke" target="True Wasteland Body" local="true">Short Sleeves.osd\True Wasteland BodyBody Vanilla Coke</Data>
+            <Data name="FOutfit_0Body Vanilla Coke" target="FOutfit_0" local="true">Short Sleeves.osd\FOutfit_0Body Vanilla Coke</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="TWB Vanilla - DC Guard">
+        <DataFolder>TWB Vanilla</DataFolder>
+        <SourceFile>DC Guard.nif</SourceFile>
+        <OutputPath>Meshes\Armor\DCGuard</OutputPath>
+        <OutputFile GenWeights="false">FOutfit</OutputFile>
+        <Shape target="FOutfit_Cloth_0">FOutfit_Cloth_0</Shape>
+        <Shape target="True Wasteland Body" DataFolder="CBBE">True Wasteland Body</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreasts</Data>
+            <Data name="FOutfit_Cloth_0Breasts" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Breasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_Cloth_0BreastsCleavage" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastsGone</Data>
+            <Data name="FOutfit_Cloth_0BreastsGone" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastsNewSH</Data>
+            <Data name="FOutfit_Cloth_0BreastsNewSH" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastsSmall</Data>
+            <Data name="FOutfit_Cloth_0BreastsSmall" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastsSmall2</Data>
+            <Data name="FOutfit_Cloth_0BreastsSmall2" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_Cloth_0BreastsTogether" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastTopSlope</Data>
+            <Data name="FOutfit_Cloth_0BreastTopSlope" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastWidth</Data>
+            <Data name="FOutfit_Cloth_0BreastWidth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="True Wasteland Body" local="true">DC Guard.osd\CBBEButt</Data>
+            <Data name="FOutfit_Cloth_0Butt" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Butt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="True Wasteland Body" local="true">DC Guard.osd\CBBEButtCrack</Data>
+            <Data name="FOutfit_Cloth_0ButtCrack" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="True Wasteland Body" local="true">DC Guard.osd\CBBEButtNew</Data>
+            <Data name="FOutfit_Cloth_0ButtNew" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="True Wasteland Body" local="true">DC Guard.osd\CBBEButtShape2</Data>
+            <Data name="FOutfit_Cloth_0ButtShape2" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="True Wasteland Body" local="true">DC Guard.osd\CBBEButtSmall</Data>
+            <Data name="FOutfit_Cloth_0ButtSmall" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="True Wasteland Body" local="true">DC Guard.osd\CBBECalfSize</Data>
+            <Data name="FOutfit_Cloth_0CalfSize" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="True Wasteland Body" local="true">DC Guard.osd\CBBECalfSmooth</Data>
+            <Data name="FOutfit_Cloth_0CalfSmooth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="True Wasteland Body" local="true">DC Guard.osd\CBBEChestDepth</Data>
+            <Data name="FOutfit_Cloth_0ChestDepth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="True Wasteland Body" local="true">DC Guard.osd\CBBEChestWidth</Data>
+            <Data name="FOutfit_Cloth_0ChestWidth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="True Wasteland Body" local="true">DC Guard.osd\CBBEChubbyArms</Data>
+            <Data name="FOutfit_Cloth_0ChubbyArms" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="True Wasteland Body" local="true">DC Guard.osd\CBBEChubbyButt</Data>
+            <Data name="FOutfit_Cloth_0ChubbyButt" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="True Wasteland Body" local="true">DC Guard.osd\CBBEChubbyLegs</Data>
+            <Data name="FOutfit_Cloth_0ChubbyLegs" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="True Wasteland Body" local="true">DC Guard.osd\CBBEChubbyWaist</Data>
+            <Data name="FOutfit_Cloth_0ChubbyWaist" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="True Wasteland Body" local="true">DC Guard.osd\CBBECrotchBack</Data>
+            <Data name="FOutfit_Cloth_0CrotchBack" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0CrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="True Wasteland Body" local="true">DC Guard.osd\CBBEDoubleMelon</Data>
+            <Data name="FOutfit_Cloth_0DoubleMelon" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0DoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="True Wasteland Body" local="true">DC Guard.osd\CBBEGroin</Data>
+            <Data name="FOutfit_Cloth_0Groin" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Groin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="True Wasteland Body" local="true">DC Guard.osd\CBBEHipBack</Data>
+            <Data name="FOutfit_Cloth_0HipBack" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0HipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="True Wasteland Body" local="true">DC Guard.osd\CBBEHipBone</Data>
+            <Data name="FOutfit_Cloth_0HipBone" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0HipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="True Wasteland Body" local="true">DC Guard.osd\CBBEHips</Data>
+            <Data name="FOutfit_Cloth_0Hips" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="True Wasteland Body" local="true">DC Guard.osd\CBBEHipUpperWidth</Data>
+            <Data name="FOutfit_Cloth_0HipUpperWidth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0HipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="True Wasteland Body" local="true">DC Guard.osd\CBBEKneeHeight</Data>
+            <Data name="FOutfit_Cloth_0KneeHeight" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0KneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="True Wasteland Body" local="true">DC Guard.osd\CBBELegShape</Data>
+            <Data name="FOutfit_Cloth_0LegShape" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0LegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="True Wasteland Body" local="true">DC Guard.osd\CBBELegsThin</Data>
+            <Data name="FOutfit_Cloth_0LegsThin" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0LegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="True Wasteland Body" local="true">DC Guard.osd\CBBENipBGone</Data>
+            <Data name="FOutfit_Cloth_0NipBGone" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleAreola</Data>
+            <Data name="FOutfit_Cloth_0NippleAreola" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleDistance</Data>
+            <Data name="FOutfit_Cloth_0NippleDistance" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleDown</Data>
+            <Data name="FOutfit_Cloth_0NippleDown" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleLength</Data>
+            <Data name="FOutfit_Cloth_0NippleLength" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="True Wasteland Body" local="true">DC Guard.osd\CBBENipplePerk2</Data>
+            <Data name="FOutfit_Cloth_0NipplePerk2" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_Cloth_0NipplePerkiness" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleSize</Data>
+            <Data name="FOutfit_Cloth_0NippleSize" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleTip</Data>
+            <Data name="FOutfit_Cloth_0NippleTip" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleUp</Data>
+            <Data name="FOutfit_Cloth_0NippleUp" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="True Wasteland Body" local="true">DC Guard.osd\CBBEPregnancyBelly</Data>
+            <Data name="FOutfit_Cloth_0PregnancyBelly" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0PregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="True Wasteland Body" local="true">DC Guard.osd\CBBEPushUp</Data>
+            <Data name="FOutfit_Cloth_0PushUp" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0PushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="True Wasteland Body" local="true">DC Guard.osd\CBBERoundAss</Data>
+            <Data name="FOutfit_Cloth_0RoundAss" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0RoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="True Wasteland Body" local="true">DC Guard.osd\CBBEShoulderSmooth</Data>
+            <Data name="FOutfit_Cloth_0ShoulderSmooth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="True Wasteland Body" local="true">DC Guard.osd\CBBEShoulderTweak</Data>
+            <Data name="FOutfit_Cloth_0ShoulderTweak" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="True Wasteland Body" local="true">DC Guard.osd\CBBEShoulderWidth</Data>
+            <Data name="FOutfit_Cloth_0ShoulderWidth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="True Wasteland Body" local="true">DC Guard.osd\CBBESlimThighs</Data>
+            <Data name="FOutfit_Cloth_0SlimThighs" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0SlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="True Wasteland Body" local="true">DC Guard.osd\CBBESternumDepth</Data>
+            <Data name="FOutfit_Cloth_0SternumDepth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0SternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="True Wasteland Body" local="true">DC Guard.osd\CBBESternumHeight</Data>
+            <Data name="FOutfit_Cloth_0SternumHeight" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0SternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="True Wasteland Body" local="true">DC Guard.osd\CBBEThighs</Data>
+            <Data name="FOutfit_Cloth_0Thighs" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="True Wasteland Body" local="true">DC Guard.osd\CBBETummyTuck</Data>
+            <Data name="FOutfit_Cloth_0TummyTuck" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0TummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="True Wasteland Body" local="true">DC Guard.osd\CBBEVanillaFo4</Data>
+            <Data name="FOutfit_Cloth_0VanillaFo4" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0VanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="True Wasteland Body" local="true">DC Guard.osd\CBBEWaist</Data>
+            <Data name="FOutfit_Cloth_0Waist" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Waist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="True Wasteland Body" local="true">DC Guard.osd\CBBEWaistHeight</Data>
+            <Data name="FOutfit_Cloth_0WaistHeight" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0WaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="True Wasteland Body" local="true">DC Guard.osd\CBBEWideWaistLine</Data>
+            <Data name="FOutfit_Cloth_0WideWaistLine" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0WideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="True Wasteland Body" local="true">DC Guard.osd\CBBEAnkles</Data>
+            <Data name="FOutfit_Cloth_0Ankles" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Ankles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="True Wasteland Body" local="true">DC Guard.osd\CBBEAppleCheeks</Data>
+            <Data name="FOutfit_Cloth_0AppleCheeks" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0AppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="True Wasteland Body" local="true">DC Guard.osd\CBBEArms</Data>
+            <Data name="FOutfit_Cloth_0Arms" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBack</Data>
+            <Data name="FOutfit_Cloth_0Back" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBackArch</Data>
+            <Data name="FOutfit_Cloth_0BackArch" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBelly</Data>
+            <Data name="FOutfit_Cloth_0Belly" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBigBelly</Data>
+            <Data name="FOutfit_Cloth_0BigBelly" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBigButt</Data>
+            <Data name="FOutfit_Cloth_0BigButt" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBigTorso</Data>
+            <Data name="FOutfit_Cloth_0BigTorso" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastCenter</Data>
+            <Data name="FOutfit_Cloth_0BreastCenter" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_Cloth_0BreastCenterBig" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastFantasy</Data>
+            <Data name="FOutfit_Cloth_0BreastFantasy" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_Cloth_0BreastFlatness2" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastGravity2</Data>
+            <Data name="FOutfit_Cloth_0BreastGravity2" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="True Wasteland Body" local="true">DC Guard.osd\CBBEBreastHeight</Data>
+            <Data name="FOutfit_Cloth_0BreastHeight" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland Body</Data>
+            <Data name="FOutfit_Cloth_0BreastPerkiness" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="True Wasteland Body" local="true">DC Guard.osd\CBBEArmpitHeight</Data>
+            <Data name="FOutfit_Cloth_0ArmpitHeight" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0ArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="True Wasteland Body" local="true">DC Guard.osd\CBBEForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleShape</Data>
+            <Data name="FOutfit_Cloth_0NippleShape" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="True Wasteland Body" local="true">DC Guard.osd\CBBENippleTwistUp</Data>
+            <Data name="FOutfit_Cloth_0NippleTwistUp" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0NippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="True Wasteland Body" local="true">DC Guard.osd\CBBE7B Upper</Data>
+            <Data name="FOutfit_Cloth_07B Upper" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_07B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="True Wasteland Body" local="true">DC Guard.osd\CBBE7B Lower</Data>
+            <Data name="FOutfit_Cloth_07B Lower" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_07B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="True Wasteland Body" local="true">DC Guard.osd\CBBEMuscularChest</Data>
+            <Data name="FOutfit_Cloth_0MuscularChest" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0MuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="True Wasteland Body" local="true">DC Guard.osd\CBBEMuscularArms</Data>
+            <Data name="FOutfit_Cloth_0MuscularArms" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0MuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="True Wasteland Body" local="true">DC Guard.osd\CBBEMuscularButt</Data>
+            <Data name="FOutfit_Cloth_0MuscularButt" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0MuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="True Wasteland Body" local="true">DC Guard.osd\CBBEMuscularLegs</Data>
+            <Data name="FOutfit_Cloth_0MuscularLegs" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0MuscularLegs</Data>
+        </Slider>
+        <Slider name="BodyZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="True Wasteland BodyBodyZap" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBodyZap</Data>
+        </Slider>
+        <Slider name="FFB Fitness Less" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Less" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyFFB Fitness Less</Data>
+            <Data name="FOutfit_Cloth_0FFB Fitness Less" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0FFB Fitness Less</Data>
+        </Slider>
+        <Slider name="FFB Fitness More" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness More" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyFFB Fitness More</Data>
+            <Data name="FOutfit_Cloth_0FFB Fitness More" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0FFB Fitness More</Data>
+        </Slider>
+        <Slider name="FFB Fitness Very" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Very" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyFFB Fitness Very</Data>
+            <Data name="FOutfit_Cloth_0FFB Fitness Very" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0FFB Fitness Very</Data>
+        </Slider>
+        <Slider name="FFB High Heels Feet" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB High Heels Feet" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyFFB High Heels Feet</Data>
+            <Data name="FOutfit_Cloth_0FFB High Heels Feet" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0FFB High Heels Feet</Data>
+        </Slider>
+        <Slider name="CBBE to FFB" invert="false" default="0">
+            <Data name="True Wasteland BodyCBBE to FFB" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyCBBE to FFB</Data>
+            <Data name="FOutfit_Cloth_0CBBE to FFB" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0CBBE to FFB</Data>
+        </Slider>
+        <Slider name="Athlete" invert="false" default="0">
+            <Data name="True Wasteland BodyAthlete" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyAthlete</Data>
+            <Data name="FOutfit_Cloth_0Athlete" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Athlete</Data>
+        </Slider>
+        <Slider name="BodyBuilder" invert="false" default="0">
+            <Data name="True Wasteland BodyBodyBuilder" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBodyBuilder</Data>
+            <Data name="FOutfit_Cloth_0BodyBuilder" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BodyBuilder</Data>
+        </Slider>
+        <Slider name="Muscle Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscle Definition" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyMuscle Definition</Data>
+            <Data name="FOutfit_Cloth_0Muscle Definition" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Muscle Definition</Data>
+        </Slider>
+        <Slider name="Fitness" invert="false" default="0">
+            <Data name="True Wasteland BodyFitness" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyFitness</Data>
+            <Data name="FOutfit_Cloth_0Fitness" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Fitness</Data>
+        </Slider>
+        <Slider name="Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyTone" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyTone</Data>
+            <Data name="FOutfit_Cloth_0Tone" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Tone</Data>
+        </Slider>
+        <Slider name="Shades " invert="false" default="0">
+            <Data name="True Wasteland BodyShades " target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyShades </Data>
+            <Data name="FOutfit_Cloth_0Shades " target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Shades </Data>
+        </Slider>
+        <Slider name="Dibella" invert="false" default="0">
+            <Data name="True Wasteland BodyDibella" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyDibella</Data>
+            <Data name="FOutfit_Cloth_0Dibella" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Dibella</Data>
+        </Slider>
+        <Slider name="Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyAtomic Beauty" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyAtomic Beauty</Data>
+            <Data name="FOutfit_Cloth_0Atomic Beauty" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Atomic Beauty</Data>
+        </Slider>
+        <Slider name="Big Soft Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Soft Belly" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBig Soft Belly</Data>
+            <Data name="FOutfit_Cloth_0Big Soft Belly" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Big Soft Belly</Data>
+        </Slider>
+        <Slider name="Explosion" invert="false" default="0">
+            <Data name="True Wasteland BodyExplosion" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyExplosion</Data>
+            <Data name="FOutfit_Cloth_0Explosion" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Explosion</Data>
+        </Slider>
+        <Slider name="BBW" invert="false" default="0">
+            <Data name="True Wasteland BodyBBW" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBBW</Data>
+            <Data name="FOutfit_Cloth_0BBW" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0BBW</Data>
+        </Slider>
+        <Slider name="Xun ABS" invert="false" default="0">
+            <Data name="True Wasteland BodyXun ABS" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyXun ABS</Data>
+            <Data name="FOutfit_Cloth_0Xun ABS" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Xun ABS</Data>
+        </Slider>
+        <Slider name="Boob Concave" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Concave" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBoob Concave</Data>
+            <Data name="FOutfit_Cloth_0Boob Concave" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Boob Concave</Data>
+        </Slider>
+        <Slider name="Belly Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Smooth" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Smooth</Data>
+            <Data name="FOutfit_Cloth_0Belly Smooth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Smooth</Data>
+        </Slider>
+        <Slider name="AB Template" invert="false" default="0">
+            <Data name="True Wasteland BodyAB Template" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyAB Template</Data>
+            <Data name="FOutfit_Cloth_0AB Template" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0AB Template</Data>
+        </Slider>
+        <Slider name="Real Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyReal Atomic Beauty" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyReal Atomic Beauty</Data>
+            <Data name="FOutfit_Cloth_0Real Atomic Beauty" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Real Atomic Beauty</Data>
+        </Slider>
+        <Slider name="New Atomic" invert="false" default="0">
+            <Data name="True Wasteland BodyNew Atomic" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyNew Atomic</Data>
+            <Data name="FOutfit_Cloth_0New Atomic" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0New Atomic</Data>
+        </Slider>
+        <Slider name="Narrow Hips" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Hips" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyNarrow Hips</Data>
+            <Data name="FOutfit_Cloth_0Narrow Hips" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Narrow Hips</Data>
+        </Slider>
+        <Slider name="Leg Slimmer" invert="false" default="0">
+            <Data name="True Wasteland BodyLeg Slimmer" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyLeg Slimmer</Data>
+            <Data name="FOutfit_Cloth_0Leg Slimmer" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Leg Slimmer</Data>
+        </Slider>
+        <Slider name="More Chest Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Chest Depth" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyMore Chest Depth</Data>
+            <Data name="FOutfit_Cloth_0More Chest Depth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0More Chest Depth</Data>
+        </Slider>
+        <Slider name="Lower Waist" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Waist" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyLower Waist</Data>
+            <Data name="FOutfit_Cloth_0Lower Waist" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Lower Waist</Data>
+        </Slider>
+        <Slider name="Wider Back" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Back" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyWider Back</Data>
+            <Data name="FOutfit_Cloth_0Wider Back" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Wider Back</Data>
+        </Slider>
+        <Slider name="Hips Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Forward" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyHips Forward</Data>
+            <Data name="FOutfit_Cloth_0Hips Forward" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Hips Forward</Data>
+        </Slider>
+        <Slider name="Lower Back Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Back Smooth" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyLower Back Smooth</Data>
+            <Data name="FOutfit_Cloth_0Lower Back Smooth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Lower Back Smooth</Data>
+        </Slider>
+        <Slider name="Smooth Thighs" invert="false" default="0">
+            <Data name="True Wasteland BodySmooth Thighs" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodySmooth Thighs</Data>
+            <Data name="FOutfit_Cloth_0Smooth Thighs" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Smooth Thighs</Data>
+        </Slider>
+        <Slider name="Boob Height" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Height" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBoob Height</Data>
+            <Data name="FOutfit_Cloth_0Boob Height" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Boob Height</Data>
+        </Slider>
+        <Slider name="Smaller Torso" invert="false" default="0">
+            <Data name="True Wasteland BodySmaller Torso" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodySmaller Torso</Data>
+            <Data name="FOutfit_Cloth_0Smaller Torso" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Smaller Torso</Data>
+        </Slider>
+        <Slider name="Larger Nipples" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Nipples" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyLarger Nipples</Data>
+            <Data name="FOutfit_Cloth_0Larger Nipples" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Larger Nipples</Data>
+        </Slider>
+        <Slider name="Wider Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Ass" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyWider Ass</Data>
+            <Data name="FOutfit_Cloth_0Wider Ass" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Wider Ass</Data>
+        </Slider>
+        <Slider name="Ass Stretch" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Stretch" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyAss Stretch</Data>
+            <Data name="FOutfit_Cloth_0Ass Stretch" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Ass Stretch</Data>
+        </Slider>
+        <Slider name="Narrow Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Ass" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyNarrow Ass</Data>
+            <Data name="FOutfit_Cloth_0Narrow Ass" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Narrow Ass</Data>
+        </Slider>
+        <Slider name="Ass Height" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Height" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyAss Height</Data>
+            <Data name="FOutfit_Cloth_0Ass Height" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Ass Height</Data>
+        </Slider>
+        <Slider name="Larger Torso" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Torso" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyLarger Torso</Data>
+            <Data name="FOutfit_Cloth_0Larger Torso" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Larger Torso</Data>
+        </Slider>
+        <Slider name="Muscular Body" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscular Body" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyMuscular Body</Data>
+            <Data name="FOutfit_Cloth_0Muscular Body" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Muscular Body</Data>
+        </Slider>
+        <Slider name="Tigersan" invert="false" default="0">
+            <Data name="True Wasteland BodyTigersan" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyTigersan</Data>
+            <Data name="FOutfit_Cloth_0Tigersan" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Tigersan</Data>
+        </Slider>
+        <Slider name="Breast Narrow" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Narrow" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBreast Narrow</Data>
+            <Data name="FOutfit_Cloth_0Breast Narrow" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Breast Narrow</Data>
+        </Slider>
+        <Slider name="Breast Curve Down" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve Down" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBreast Curve Down</Data>
+            <Data name="FOutfit_Cloth_0Breast Curve Down" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Breast Curve Down</Data>
+        </Slider>
+        <Slider name="Breast Curve" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBreast Curve</Data>
+            <Data name="FOutfit_Cloth_0Breast Curve" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Breast Curve</Data>
+        </Slider>
+        <Slider name="Breast Armpit In" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit In" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBreast Armpit In</Data>
+            <Data name="FOutfit_Cloth_0Breast Armpit In" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Breast Armpit In</Data>
+        </Slider>
+        <Slider name="Breast Armpit Wide" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit Wide" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBreast Armpit Wide</Data>
+            <Data name="FOutfit_Cloth_0Breast Armpit Wide" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Breast Armpit Wide</Data>
+        </Slider>
+        <Slider name="Nipple Shape Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Shape Depth" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyNipple Shape Depth</Data>
+            <Data name="FOutfit_Cloth_0Nipple Shape Depth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Nipple Shape Depth</Data>
+        </Slider>
+        <Slider name="Nipple Tips Flat" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Tips Flat" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyNipple Tips Flat</Data>
+            <Data name="FOutfit_Cloth_0Nipple Tips Flat" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Nipple Tips Flat</Data>
+        </Slider>
+        <Slider name="Big Rib Cage" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Rib Cage" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBig Rib Cage</Data>
+            <Data name="FOutfit_Cloth_0Big Rib Cage" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Big Rib Cage</Data>
+        </Slider>
+        <Slider name="Butt Dimples" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Dimples" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyButt Dimples</Data>
+            <Data name="FOutfit_Cloth_0Butt Dimples" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Butt Dimples</Data>
+        </Slider>
+        <Slider name="Butt Thin" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Thin" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyButt Thin</Data>
+            <Data name="FOutfit_Cloth_0Butt Thin" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Butt Thin</Data>
+        </Slider>
+        <Slider name="Butt Up" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Up" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyButt Up</Data>
+            <Data name="FOutfit_Cloth_0Butt Up" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Butt Up</Data>
+        </Slider>
+        <Slider name="Butt Crease" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Crease" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyButt Crease</Data>
+            <Data name="FOutfit_Cloth_0Butt Crease" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Butt Crease</Data>
+        </Slider>
+        <Slider name="Hips Up" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Up" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyHips Up</Data>
+            <Data name="FOutfit_Cloth_0Hips Up" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Hips Up</Data>
+        </Slider>
+        <Slider name="Hip Line" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Line" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyHip Line</Data>
+            <Data name="FOutfit_Cloth_0Hip Line" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Hip Line</Data>
+        </Slider>
+        <Slider name="Hip Rotate Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Rotate Forward" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyHip Rotate Forward</Data>
+            <Data name="FOutfit_Cloth_0Hip Rotate Forward" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Hip Rotate Forward</Data>
+        </Slider>
+        <Slider name="Pelvis Up" invert="false" default="0">
+            <Data name="True Wasteland BodyPelvis Up" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyPelvis Up</Data>
+            <Data name="FOutfit_Cloth_0Pelvis Up" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Pelvis Up</Data>
+        </Slider>
+        <Slider name="Pussy Down" invert="false" default="0">
+            <Data name="True Wasteland BodyPussy Down" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyPussy Down</Data>
+            <Data name="FOutfit_Cloth_0Pussy Down" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Pussy Down</Data>
+        </Slider>
+        <Slider name="Thigh Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Tone" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyThigh Tone</Data>
+            <Data name="FOutfit_Cloth_0Thigh Tone" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thigh Tone</Data>
+        </Slider>
+        <Slider name="Thigh Together" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Together" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyThigh Together</Data>
+            <Data name="FOutfit_Cloth_0Thigh Together" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thigh Together</Data>
+        </Slider>
+        <Slider name="Thigh Apart" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Apart" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyThigh Apart</Data>
+            <Data name="FOutfit_Cloth_0Thigh Apart" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thigh Apart</Data>
+        </Slider>
+        <Slider name="Thigh Back Thick" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Back Thick" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyThigh Back Thick</Data>
+            <Data name="FOutfit_Cloth_0Thigh Back Thick" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thigh Back Thick</Data>
+        </Slider>
+        <Slider name="Thigh Gap" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Gap" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyThigh Gap</Data>
+            <Data name="FOutfit_Cloth_0Thigh Gap" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thigh Gap</Data>
+        </Slider>
+        <Slider name="Knee Detail" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Detail" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyKnee Detail</Data>
+            <Data name="FOutfit_Cloth_0Knee Detail" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Knee Detail</Data>
+        </Slider>
+        <Slider name="Abdomin Down" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Down" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyAbdomin Down</Data>
+            <Data name="FOutfit_Cloth_0Abdomin Down" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Abdomin Down</Data>
+        </Slider>
+        <Slider name="Abdomin Size" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Size" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyAbdomin Size</Data>
+            <Data name="FOutfit_Cloth_0Abdomin Size" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Abdomin Size</Data>
+        </Slider>
+        <Slider name="Smoother Belly" invert="false" default="0">
+            <Data name="True Wasteland BodySmoother Belly" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodySmoother Belly</Data>
+            <Data name="FOutfit_Cloth_0Smoother Belly" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Smoother Belly</Data>
+        </Slider>
+        <Slider name="Belly Define" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Define" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Define</Data>
+            <Data name="FOutfit_Cloth_0Belly Define" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Define</Data>
+        </Slider>
+        <Slider name="Belly Diameter" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Diameter" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Diameter</Data>
+            <Data name="FOutfit_Cloth_0Belly Diameter" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Diameter</Data>
+        </Slider>
+        <Slider name="Belly Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Up" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Up</Data>
+            <Data name="FOutfit_Cloth_0Belly Up" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Up</Data>
+        </Slider>
+        <Slider name="Belly Tight" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Tight" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Tight</Data>
+            <Data name="FOutfit_Cloth_0Belly Tight" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Tight</Data>
+        </Slider>
+        <Slider name="Belly In" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly In" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly In</Data>
+            <Data name="FOutfit_Cloth_0Belly In" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly In</Data>
+        </Slider>
+        <Slider name="Belly Rotate Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Rotate Up" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Rotate Up</Data>
+            <Data name="FOutfit_Cloth_0Belly Rotate Up" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Rotate Up</Data>
+        </Slider>
+        <Slider name="Belly Wider" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Wider" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Wider</Data>
+            <Data name="FOutfit_Cloth_0Belly Wider" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Wider</Data>
+        </Slider>
+        <Slider name="Chest Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyChest Definition" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyChest Definition</Data>
+            <Data name="FOutfit_Cloth_0Chest Definition" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Chest Definition</Data>
+        </Slider>
+        <Slider name="Belly Line" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Line" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Line</Data>
+            <Data name="FOutfit_Cloth_0Belly Line" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Line</Data>
+        </Slider>
+        <Slider name="Thin Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyThin Belly" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyThin Belly</Data>
+            <Data name="FOutfit_Cloth_0Thin Belly" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thin Belly</Data>
+        </Slider>
+        <Slider name="Belly Thicc" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Thicc" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBelly Thicc</Data>
+            <Data name="FOutfit_Cloth_0Belly Thicc" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Belly Thicc</Data>
+        </Slider>
+        <Slider name="Biceps" invert="false" default="0">
+            <Data name="True Wasteland BodyBiceps" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBiceps</Data>
+            <Data name="FOutfit_Cloth_0Biceps" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Biceps</Data>
+        </Slider>
+        <Slider name="Back Bulge" invert="false" default="0">
+            <Data name="True Wasteland BodyBack Bulge" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBack Bulge</Data>
+            <Data name="FOutfit_Cloth_0Back Bulge" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Back Bulge</Data>
+        </Slider>
+        <Slider name="Thigh Muscular" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Muscular" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyThigh Muscular</Data>
+            <Data name="FOutfit_Cloth_0Thigh Muscular" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thigh Muscular</Data>
+        </Slider>
+        <Slider name="Knee Thing" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Thing" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyKnee Thing</Data>
+            <Data name="FOutfit_Cloth_0Knee Thing" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Knee Thing</Data>
+        </Slider>
+        <Slider name="More Abs" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Abs" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyMore Abs</Data>
+            <Data name="FOutfit_Cloth_0More Abs" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0More Abs</Data>
+        </Slider>
+        <Slider name="Abdomin Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Smooth" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyAbdomin Smooth</Data>
+            <Data name="FOutfit_Cloth_0Abdomin Smooth" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Abdomin Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Flex" invert="false" default="0">
+            <Data name="True Wasteland BodyShoulder Flex" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyShoulder Flex</Data>
+            <Data name="FOutfit_Cloth_0Shoulder Flex" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Shoulder Flex</Data>
+        </Slider>
+        <Slider name="Plump Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyPlump Ass" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyPlump Ass</Data>
+            <Data name="FOutfit_Cloth_0Plump Ass" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Plump Ass</Data>
+        </Slider>
+        <Slider name="Thicc Knees" invert="false" default="0">
+            <Data name="True Wasteland BodyThicc Knees" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyThicc Knees</Data>
+            <Data name="FOutfit_Cloth_0Thicc Knees" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Thicc Knees</Data>
+        </Slider>
+        <Slider name="Upper Arm Mass" invert="false" default="0">
+            <Data name="True Wasteland BodyUpper Arm Mass" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyUpper Arm Mass</Data>
+            <Data name="FOutfit_Cloth_0Upper Arm Mass" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Upper Arm Mass</Data>
+        </Slider>
+        <Slider name="Body aTightTiger" invert="false" default="0">
+            <Data name="True Wasteland BodyBody aTightTiger" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBody aTightTiger</Data>
+            <Data name="FOutfit_Cloth_0Body aTightTiger" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Body aTightTiger</Data>
+        </Slider>
+        <Slider name="Body Clamp" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Clamp" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBody Clamp</Data>
+            <Data name="FOutfit_Cloth_0Body Clamp" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Body Clamp</Data>
+        </Slider>
+        <Slider name="Body WINININININ" invert="false" default="0">
+            <Data name="True Wasteland BodyBody WINININININ" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBody WINININININ</Data>
+            <Data name="FOutfit_Cloth_0Body WINININININ" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Body WINININININ</Data>
+        </Slider>
+        <Slider name="Body Keep" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Keep" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBody Keep</Data>
+            <Data name="FOutfit_Cloth_0Body Keep" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Body Keep</Data>
+        </Slider>
+        <Slider name="Body a Soul Body" invert="false" default="0">
+            <Data name="True Wasteland BodyBody a Soul Body" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBody a Soul Body</Data>
+            <Data name="FOutfit_Cloth_0Body a Soul Body" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Body a Soul Body</Data>
+        </Slider>
+        <Slider name="Body Vanilla Coke" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Vanilla Coke" target="True Wasteland Body" local="true">DC Guard.osd\True Wasteland BodyBody Vanilla Coke</Data>
+            <Data name="FOutfit_Cloth_0Body Vanilla Coke" target="FOutfit_Cloth_0" local="true">DC Guard.osd\FOutfit_Cloth_0Body Vanilla Coke</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="TWB Vanilla- Raider 2">
+        <DataFolder>TWB Vanilla</DataFolder>
+        <SourceFile>Raider 2.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Raider02</OutputPath>
+        <OutputFile GenWeights="false">Raider02BaseArmorF</OutputFile>
+        <Shape target="Raider02BodyF_0">Raider02BodyF_0</Shape>
+        <Shape target="True Wasteland Body" DataFolder="CBBE">True Wasteland Body</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreasts</Data>
+            <Data name="Raider02BodyF_0Breasts" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Breasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland Body</Data>
+            <Data name="Raider02BodyF_0BreastsCleavage" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastsGone</Data>
+            <Data name="Raider02BodyF_0BreastsGone" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastsNewSH</Data>
+            <Data name="Raider02BodyF_0BreastsNewSH" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastsSmall</Data>
+            <Data name="Raider02BodyF_0BreastsSmall" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastsSmall2</Data>
+            <Data name="Raider02BodyF_0BreastsSmall2" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland Body</Data>
+            <Data name="Raider02BodyF_0BreastsTogether" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastTopSlope</Data>
+            <Data name="Raider02BodyF_0BreastTopSlope" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastWidth</Data>
+            <Data name="Raider02BodyF_0BreastWidth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="True Wasteland Body" local="true">Raider 2.osd\CBBEButt</Data>
+            <Data name="Raider02BodyF_0Butt" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Butt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="True Wasteland Body" local="true">Raider 2.osd\CBBEButtCrack</Data>
+            <Data name="Raider02BodyF_0ButtCrack" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="True Wasteland Body" local="true">Raider 2.osd\CBBEButtNew</Data>
+            <Data name="Raider02BodyF_0ButtNew" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="True Wasteland Body" local="true">Raider 2.osd\CBBEButtShape2</Data>
+            <Data name="Raider02BodyF_0ButtShape2" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="True Wasteland Body" local="true">Raider 2.osd\CBBEButtSmall</Data>
+            <Data name="Raider02BodyF_0ButtSmall" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="True Wasteland Body" local="true">Raider 2.osd\CBBECalfSize</Data>
+            <Data name="Raider02BodyF_0CalfSize" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="True Wasteland Body" local="true">Raider 2.osd\CBBECalfSmooth</Data>
+            <Data name="Raider02BodyF_0CalfSmooth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="True Wasteland Body" local="true">Raider 2.osd\CBBEChestDepth</Data>
+            <Data name="Raider02BodyF_0ChestDepth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="True Wasteland Body" local="true">Raider 2.osd\CBBEChestWidth</Data>
+            <Data name="Raider02BodyF_0ChestWidth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="True Wasteland Body" local="true">Raider 2.osd\CBBEChubbyArms</Data>
+            <Data name="Raider02BodyF_0ChubbyArms" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="True Wasteland Body" local="true">Raider 2.osd\CBBEChubbyButt</Data>
+            <Data name="Raider02BodyF_0ChubbyButt" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="True Wasteland Body" local="true">Raider 2.osd\CBBEChubbyLegs</Data>
+            <Data name="Raider02BodyF_0ChubbyLegs" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="True Wasteland Body" local="true">Raider 2.osd\CBBEChubbyWaist</Data>
+            <Data name="Raider02BodyF_0ChubbyWaist" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="True Wasteland Body" local="true">Raider 2.osd\CBBECrotchBack</Data>
+            <Data name="Raider02BodyF_0CrotchBack" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0CrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="True Wasteland Body" local="true">Raider 2.osd\CBBEDoubleMelon</Data>
+            <Data name="Raider02BodyF_0DoubleMelon" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0DoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="True Wasteland Body" local="true">Raider 2.osd\CBBEGroin</Data>
+            <Data name="Raider02BodyF_0Groin" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Groin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="True Wasteland Body" local="true">Raider 2.osd\CBBEHipBack</Data>
+            <Data name="Raider02BodyF_0HipBack" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0HipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="True Wasteland Body" local="true">Raider 2.osd\CBBEHipBone</Data>
+            <Data name="Raider02BodyF_0HipBone" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0HipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="True Wasteland Body" local="true">Raider 2.osd\CBBEHips</Data>
+            <Data name="Raider02BodyF_0Hips" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="True Wasteland Body" local="true">Raider 2.osd\CBBEHipUpperWidth</Data>
+            <Data name="Raider02BodyF_0HipUpperWidth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0HipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="True Wasteland Body" local="true">Raider 2.osd\CBBEKneeHeight</Data>
+            <Data name="Raider02BodyF_0KneeHeight" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0KneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="True Wasteland Body" local="true">Raider 2.osd\CBBELegShape</Data>
+            <Data name="Raider02BodyF_0LegShape" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0LegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="True Wasteland Body" local="true">Raider 2.osd\CBBELegsThin</Data>
+            <Data name="Raider02BodyF_0LegsThin" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0LegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="True Wasteland Body" local="true">Raider 2.osd\CBBENipBGone</Data>
+            <Data name="Raider02BodyF_0NipBGone" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleAreola</Data>
+            <Data name="Raider02BodyF_0NippleAreola" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleDistance</Data>
+            <Data name="Raider02BodyF_0NippleDistance" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleDown</Data>
+            <Data name="Raider02BodyF_0NippleDown" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleLength</Data>
+            <Data name="Raider02BodyF_0NippleLength" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="True Wasteland Body" local="true">Raider 2.osd\CBBENipplePerk2</Data>
+            <Data name="Raider02BodyF_0NipplePerk2" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland Body</Data>
+            <Data name="Raider02BodyF_0NipplePerkiness" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleSize</Data>
+            <Data name="Raider02BodyF_0NippleSize" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleTip</Data>
+            <Data name="Raider02BodyF_0NippleTip" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleUp</Data>
+            <Data name="Raider02BodyF_0NippleUp" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="True Wasteland Body" local="true">Raider 2.osd\CBBEPregnancyBelly</Data>
+            <Data name="Raider02BodyF_0PregnancyBelly" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0PregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="True Wasteland Body" local="true">Raider 2.osd\CBBEPushUp</Data>
+            <Data name="Raider02BodyF_0PushUp" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0PushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="True Wasteland Body" local="true">Raider 2.osd\CBBERoundAss</Data>
+            <Data name="Raider02BodyF_0RoundAss" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0RoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="True Wasteland Body" local="true">Raider 2.osd\CBBEShoulderSmooth</Data>
+            <Data name="Raider02BodyF_0ShoulderSmooth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="True Wasteland Body" local="true">Raider 2.osd\CBBEShoulderTweak</Data>
+            <Data name="Raider02BodyF_0ShoulderTweak" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="True Wasteland Body" local="true">Raider 2.osd\CBBEShoulderWidth</Data>
+            <Data name="Raider02BodyF_0ShoulderWidth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="True Wasteland Body" local="true">Raider 2.osd\CBBESlimThighs</Data>
+            <Data name="Raider02BodyF_0SlimThighs" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0SlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="True Wasteland Body" local="true">Raider 2.osd\CBBESternumDepth</Data>
+            <Data name="Raider02BodyF_0SternumDepth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0SternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="True Wasteland Body" local="true">Raider 2.osd\CBBESternumHeight</Data>
+            <Data name="Raider02BodyF_0SternumHeight" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0SternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="True Wasteland Body" local="true">Raider 2.osd\CBBEThighs</Data>
+            <Data name="Raider02BodyF_0Thighs" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="True Wasteland Body" local="true">Raider 2.osd\CBBETummyTuck</Data>
+            <Data name="Raider02BodyF_0TummyTuck" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0TummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="True Wasteland Body" local="true">Raider 2.osd\CBBEVanillaFo4</Data>
+            <Data name="Raider02BodyF_0VanillaFo4" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0VanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="True Wasteland Body" local="true">Raider 2.osd\CBBEWaist</Data>
+            <Data name="Raider02BodyF_0Waist" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Waist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="True Wasteland Body" local="true">Raider 2.osd\CBBEWaistHeight</Data>
+            <Data name="Raider02BodyF_0WaistHeight" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0WaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="True Wasteland Body" local="true">Raider 2.osd\CBBEWideWaistLine</Data>
+            <Data name="Raider02BodyF_0WideWaistLine" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0WideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="True Wasteland Body" local="true">Raider 2.osd\CBBEAnkles</Data>
+            <Data name="Raider02BodyF_0Ankles" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Ankles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="True Wasteland Body" local="true">Raider 2.osd\CBBEAppleCheeks</Data>
+            <Data name="Raider02BodyF_0AppleCheeks" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0AppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="True Wasteland Body" local="true">Raider 2.osd\CBBEArms</Data>
+            <Data name="Raider02BodyF_0Arms" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBack</Data>
+            <Data name="Raider02BodyF_0Back" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBackArch</Data>
+            <Data name="Raider02BodyF_0BackArch" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBelly</Data>
+            <Data name="Raider02BodyF_0Belly" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBigBelly</Data>
+            <Data name="Raider02BodyF_0BigBelly" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBigButt</Data>
+            <Data name="Raider02BodyF_0BigButt" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBigTorso</Data>
+            <Data name="Raider02BodyF_0BigTorso" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastCenter</Data>
+            <Data name="Raider02BodyF_0BreastCenter" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland Body</Data>
+            <Data name="Raider02BodyF_0BreastCenterBig" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastFantasy</Data>
+            <Data name="Raider02BodyF_0BreastFantasy" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland Body</Data>
+            <Data name="Raider02BodyF_0BreastFlatness2" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastGravity2</Data>
+            <Data name="Raider02BodyF_0BreastGravity2" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="True Wasteland Body" local="true">Raider 2.osd\CBBEBreastHeight</Data>
+            <Data name="Raider02BodyF_0BreastHeight" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland Body</Data>
+            <Data name="Raider02BodyF_0BreastPerkiness" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="True Wasteland Body" local="true">Raider 2.osd\CBBEArmpitHeight</Data>
+            <Data name="Raider02BodyF_0ArmpitHeight" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="True Wasteland Body" local="true">Raider 2.osd\CBBEForearmSize</Data>
+            <Data name="Raider02BodyF_0ForearmSize" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0ForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleShape</Data>
+            <Data name="Raider02BodyF_0NippleShape" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="True Wasteland Body" local="true">Raider 2.osd\CBBENippleTwistUp</Data>
+            <Data name="Raider02BodyF_0NippleTwistUp" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0NippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="True Wasteland Body" local="true">Raider 2.osd\CBBE7B Upper</Data>
+            <Data name="Raider02BodyF_07B Upper" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_07B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="True Wasteland Body" local="true">Raider 2.osd\CBBE7B Lower</Data>
+            <Data name="Raider02BodyF_07B Lower" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_07B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="True Wasteland Body" local="true">Raider 2.osd\CBBEMuscularChest</Data>
+            <Data name="Raider02BodyF_0MuscularChest" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0MuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="True Wasteland Body" local="true">Raider 2.osd\CBBEMuscularArms</Data>
+            <Data name="Raider02BodyF_0MuscularArms" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0MuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="True Wasteland Body" local="true">Raider 2.osd\CBBEMuscularButt</Data>
+            <Data name="Raider02BodyF_0MuscularButt" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0MuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="True Wasteland Body" local="true">Raider 2.osd\CBBEMuscularLegs</Data>
+            <Data name="Raider02BodyF_0MuscularLegs" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0MuscularLegs</Data>
+        </Slider>
+        <Slider name="BodyZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="True Wasteland BodyBodyZap" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBodyZap</Data>
+        </Slider>
+        <Slider name="FFB Fitness Less" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Less" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyFFB Fitness Less</Data>
+            <Data name="Raider02BodyF_0FFB Fitness Less" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0FFB Fitness Less</Data>
+        </Slider>
+        <Slider name="FFB Fitness More" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness More" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyFFB Fitness More</Data>
+            <Data name="Raider02BodyF_0FFB Fitness More" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0FFB Fitness More</Data>
+        </Slider>
+        <Slider name="FFB Fitness Very" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Very" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyFFB Fitness Very</Data>
+            <Data name="Raider02BodyF_0FFB Fitness Very" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0FFB Fitness Very</Data>
+        </Slider>
+        <Slider name="FFB High Heels Feet" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB High Heels Feet" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyFFB High Heels Feet</Data>
+            <Data name="Raider02BodyF_0FFB High Heels Feet" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0FFB High Heels Feet</Data>
+        </Slider>
+        <Slider name="CBBE to FFB" invert="false" default="0">
+            <Data name="True Wasteland BodyCBBE to FFB" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyCBBE to FFB</Data>
+            <Data name="Raider02BodyF_0CBBE to FFB" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0CBBE to FFB</Data>
+        </Slider>
+        <Slider name="Athlete" invert="false" default="0">
+            <Data name="True Wasteland BodyAthlete" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyAthlete</Data>
+            <Data name="Raider02BodyF_0Athlete" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Athlete</Data>
+        </Slider>
+        <Slider name="BodyBuilder" invert="false" default="0">
+            <Data name="True Wasteland BodyBodyBuilder" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBodyBuilder</Data>
+            <Data name="Raider02BodyF_0BodyBuilder" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BodyBuilder</Data>
+        </Slider>
+        <Slider name="Muscle Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscle Definition" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyMuscle Definition</Data>
+            <Data name="Raider02BodyF_0Muscle Definition" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Muscle Definition</Data>
+        </Slider>
+        <Slider name="Fitness" invert="false" default="0">
+            <Data name="True Wasteland BodyFitness" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyFitness</Data>
+            <Data name="Raider02BodyF_0Fitness" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Fitness</Data>
+        </Slider>
+        <Slider name="Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyTone" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyTone</Data>
+            <Data name="Raider02BodyF_0Tone" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Tone</Data>
+        </Slider>
+        <Slider name="Shades " invert="false" default="0">
+            <Data name="True Wasteland BodyShades " target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyShades </Data>
+            <Data name="Raider02BodyF_0Shades " target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Shades </Data>
+        </Slider>
+        <Slider name="Dibella" invert="false" default="0">
+            <Data name="True Wasteland BodyDibella" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyDibella</Data>
+            <Data name="Raider02BodyF_0Dibella" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Dibella</Data>
+        </Slider>
+        <Slider name="Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyAtomic Beauty" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyAtomic Beauty</Data>
+            <Data name="Raider02BodyF_0Atomic Beauty" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Atomic Beauty</Data>
+        </Slider>
+        <Slider name="Big Soft Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Soft Belly" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBig Soft Belly</Data>
+            <Data name="Raider02BodyF_0Big Soft Belly" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Big Soft Belly</Data>
+        </Slider>
+        <Slider name="Explosion" invert="false" default="0">
+            <Data name="True Wasteland BodyExplosion" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyExplosion</Data>
+            <Data name="Raider02BodyF_0Explosion" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Explosion</Data>
+        </Slider>
+        <Slider name="BBW" invert="false" default="0">
+            <Data name="True Wasteland BodyBBW" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBBW</Data>
+            <Data name="Raider02BodyF_0BBW" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0BBW</Data>
+        </Slider>
+        <Slider name="Detailed" invert="false" default="0">
+            <Data name="True Wasteland BodyDetailed" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyDetailed</Data>
+            <Data name="Raider02BodyF_0Detailed" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Detailed</Data>
+        </Slider>
+        <Slider name="Xun ABS" invert="false" default="0">
+            <Data name="True Wasteland BodyXun ABS" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyXun ABS</Data>
+            <Data name="Raider02BodyF_0Xun ABS" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Xun ABS</Data>
+        </Slider>
+        <Slider name="Boob Concave" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Concave" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBoob Concave</Data>
+            <Data name="Raider02BodyF_0Boob Concave" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Boob Concave</Data>
+        </Slider>
+        <Slider name="Belly Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Smooth" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Smooth</Data>
+            <Data name="Raider02BodyF_0Belly Smooth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Smooth</Data>
+        </Slider>
+        <Slider name="AB Template" invert="false" default="0">
+            <Data name="True Wasteland BodyAB Template" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyAB Template</Data>
+            <Data name="Raider02BodyF_0AB Template" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0AB Template</Data>
+        </Slider>
+        <Slider name="Real Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyReal Atomic Beauty" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyReal Atomic Beauty</Data>
+            <Data name="Raider02BodyF_0Real Atomic Beauty" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Real Atomic Beauty</Data>
+        </Slider>
+        <Slider name="New Atomic" invert="false" default="0">
+            <Data name="True Wasteland BodyNew Atomic" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyNew Atomic</Data>
+            <Data name="Raider02BodyF_0New Atomic" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0New Atomic</Data>
+        </Slider>
+        <Slider name="Narrow Hips" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Hips" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyNarrow Hips</Data>
+            <Data name="Raider02BodyF_0Narrow Hips" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Narrow Hips</Data>
+        </Slider>
+        <Slider name="Leg Slimmer" invert="false" default="0">
+            <Data name="True Wasteland BodyLeg Slimmer" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyLeg Slimmer</Data>
+            <Data name="Raider02BodyF_0Leg Slimmer" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Leg Slimmer</Data>
+        </Slider>
+        <Slider name="More Chest Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Chest Depth" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyMore Chest Depth</Data>
+            <Data name="Raider02BodyF_0More Chest Depth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0More Chest Depth</Data>
+        </Slider>
+        <Slider name="Lower Waist" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Waist" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyLower Waist</Data>
+            <Data name="Raider02BodyF_0Lower Waist" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Lower Waist</Data>
+        </Slider>
+        <Slider name="Wider Back" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Back" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyWider Back</Data>
+            <Data name="Raider02BodyF_0Wider Back" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Wider Back</Data>
+        </Slider>
+        <Slider name="Hips Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Forward" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyHips Forward</Data>
+            <Data name="Raider02BodyF_0Hips Forward" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Hips Forward</Data>
+        </Slider>
+        <Slider name="Lower Back Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Back Smooth" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyLower Back Smooth</Data>
+            <Data name="Raider02BodyF_0Lower Back Smooth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Lower Back Smooth</Data>
+        </Slider>
+        <Slider name="Smooth Thighs" invert="false" default="0">
+            <Data name="True Wasteland BodySmooth Thighs" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodySmooth Thighs</Data>
+            <Data name="Raider02BodyF_0Smooth Thighs" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Smooth Thighs</Data>
+        </Slider>
+        <Slider name="Boob Height" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Height" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBoob Height</Data>
+            <Data name="Raider02BodyF_0Boob Height" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Boob Height</Data>
+        </Slider>
+        <Slider name="Smaller Torso" invert="false" default="0">
+            <Data name="True Wasteland BodySmaller Torso" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodySmaller Torso</Data>
+            <Data name="Raider02BodyF_0Smaller Torso" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Smaller Torso</Data>
+        </Slider>
+        <Slider name="Larger Nipples" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Nipples" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyLarger Nipples</Data>
+            <Data name="Raider02BodyF_0Larger Nipples" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Larger Nipples</Data>
+        </Slider>
+        <Slider name="Wider Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Ass" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyWider Ass</Data>
+            <Data name="Raider02BodyF_0Wider Ass" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Wider Ass</Data>
+        </Slider>
+        <Slider name="Ass Stretch" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Stretch" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyAss Stretch</Data>
+            <Data name="Raider02BodyF_0Ass Stretch" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Ass Stretch</Data>
+        </Slider>
+        <Slider name="Narrow Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Ass" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyNarrow Ass</Data>
+            <Data name="Raider02BodyF_0Narrow Ass" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Narrow Ass</Data>
+        </Slider>
+        <Slider name="Ass Height" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Height" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyAss Height</Data>
+            <Data name="Raider02BodyF_0Ass Height" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Ass Height</Data>
+        </Slider>
+        <Slider name="Larger Torso" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Torso" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyLarger Torso</Data>
+            <Data name="Raider02BodyF_0Larger Torso" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Larger Torso</Data>
+        </Slider>
+        <Slider name="Muscular Body" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscular Body" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyMuscular Body</Data>
+            <Data name="Raider02BodyF_0Muscular Body" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Muscular Body</Data>
+        </Slider>
+        <Slider name="Tigersan" invert="false" default="0">
+            <Data name="True Wasteland BodyTigersan" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyTigersan</Data>
+            <Data name="Raider02BodyF_0Tigersan" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Tigersan</Data>
+        </Slider>
+        <Slider name="Breast Narrow" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Narrow" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBreast Narrow</Data>
+            <Data name="Raider02BodyF_0Breast Narrow" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Breast Narrow</Data>
+        </Slider>
+        <Slider name="Breast Curve Down" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve Down" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBreast Curve Down</Data>
+            <Data name="Raider02BodyF_0Breast Curve Down" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Breast Curve Down</Data>
+        </Slider>
+        <Slider name="Breast Curve" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBreast Curve</Data>
+            <Data name="Raider02BodyF_0Breast Curve" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Breast Curve</Data>
+        </Slider>
+        <Slider name="Breast Armpit In" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit In" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBreast Armpit In</Data>
+            <Data name="Raider02BodyF_0Breast Armpit In" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Breast Armpit In</Data>
+        </Slider>
+        <Slider name="Breast Armpit Wide" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit Wide" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBreast Armpit Wide</Data>
+            <Data name="Raider02BodyF_0Breast Armpit Wide" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Breast Armpit Wide</Data>
+        </Slider>
+        <Slider name="Nipple Shape Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Shape Depth" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyNipple Shape Depth</Data>
+            <Data name="Raider02BodyF_0Nipple Shape Depth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Nipple Shape Depth</Data>
+        </Slider>
+        <Slider name="Nipple Tips Flat" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Tips Flat" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyNipple Tips Flat</Data>
+            <Data name="Raider02BodyF_0Nipple Tips Flat" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Nipple Tips Flat</Data>
+        </Slider>
+        <Slider name="Big Rib Cage" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Rib Cage" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBig Rib Cage</Data>
+            <Data name="Raider02BodyF_0Big Rib Cage" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Big Rib Cage</Data>
+        </Slider>
+        <Slider name="Butt Dimples" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Dimples" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyButt Dimples</Data>
+            <Data name="Raider02BodyF_0Butt Dimples" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Butt Dimples</Data>
+        </Slider>
+        <Slider name="Butt Thin" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Thin" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyButt Thin</Data>
+            <Data name="Raider02BodyF_0Butt Thin" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Butt Thin</Data>
+        </Slider>
+        <Slider name="Butt Up" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Up" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyButt Up</Data>
+            <Data name="Raider02BodyF_0Butt Up" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Butt Up</Data>
+        </Slider>
+        <Slider name="Butt Crease" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Crease" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyButt Crease</Data>
+            <Data name="Raider02BodyF_0Butt Crease" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Butt Crease</Data>
+        </Slider>
+        <Slider name="Hips Up" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Up" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyHips Up</Data>
+            <Data name="Raider02BodyF_0Hips Up" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Hips Up</Data>
+        </Slider>
+        <Slider name="Hip Line" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Line" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyHip Line</Data>
+            <Data name="Raider02BodyF_0Hip Line" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Hip Line</Data>
+        </Slider>
+        <Slider name="Hip Rotate Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Rotate Forward" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyHip Rotate Forward</Data>
+            <Data name="Raider02BodyF_0Hip Rotate Forward" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Hip Rotate Forward</Data>
+        </Slider>
+        <Slider name="Pelvis Up" invert="false" default="0">
+            <Data name="True Wasteland BodyPelvis Up" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyPelvis Up</Data>
+            <Data name="Raider02BodyF_0Pelvis Up" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Pelvis Up</Data>
+        </Slider>
+        <Slider name="Pussy Down" invert="false" default="0">
+            <Data name="True Wasteland BodyPussy Down" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyPussy Down</Data>
+            <Data name="Raider02BodyF_0Pussy Down" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Pussy Down</Data>
+        </Slider>
+        <Slider name="Pussy Pinch" invert="false" default="0">
+            <Data name="True Wasteland BodyPussy Pinch" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyPussy Pinch</Data>
+            <Data name="Raider02BodyF_0Pussy Pinch" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Pussy Pinch</Data>
+        </Slider>
+        <Slider name="Thigh Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Tone" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyThigh Tone</Data>
+            <Data name="Raider02BodyF_0Thigh Tone" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thigh Tone</Data>
+        </Slider>
+        <Slider name="Thigh Together" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Together" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyThigh Together</Data>
+            <Data name="Raider02BodyF_0Thigh Together" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thigh Together</Data>
+        </Slider>
+        <Slider name="Thigh Apart" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Apart" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyThigh Apart</Data>
+            <Data name="Raider02BodyF_0Thigh Apart" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thigh Apart</Data>
+        </Slider>
+        <Slider name="Thigh Back Thick" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Back Thick" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyThigh Back Thick</Data>
+            <Data name="Raider02BodyF_0Thigh Back Thick" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thigh Back Thick</Data>
+        </Slider>
+        <Slider name="Thigh Gap" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Gap" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyThigh Gap</Data>
+            <Data name="Raider02BodyF_0Thigh Gap" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thigh Gap</Data>
+        </Slider>
+        <Slider name="Knee Detail" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Detail" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyKnee Detail</Data>
+            <Data name="Raider02BodyF_0Knee Detail" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Knee Detail</Data>
+        </Slider>
+        <Slider name="Abdomin Down" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Down" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyAbdomin Down</Data>
+            <Data name="Raider02BodyF_0Abdomin Down" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Abdomin Down</Data>
+        </Slider>
+        <Slider name="Abdomin Size" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Size" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyAbdomin Size</Data>
+            <Data name="Raider02BodyF_0Abdomin Size" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Abdomin Size</Data>
+        </Slider>
+        <Slider name="Smoother Belly" invert="false" default="0">
+            <Data name="True Wasteland BodySmoother Belly" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodySmoother Belly</Data>
+            <Data name="Raider02BodyF_0Smoother Belly" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Smoother Belly</Data>
+        </Slider>
+        <Slider name="Belly Define" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Define" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Define</Data>
+            <Data name="Raider02BodyF_0Belly Define" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Define</Data>
+        </Slider>
+        <Slider name="Belly Diameter" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Diameter" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Diameter</Data>
+            <Data name="Raider02BodyF_0Belly Diameter" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Diameter</Data>
+        </Slider>
+        <Slider name="Belly Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Up" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Up</Data>
+            <Data name="Raider02BodyF_0Belly Up" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Up</Data>
+        </Slider>
+        <Slider name="Belly Tight" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Tight" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Tight</Data>
+            <Data name="Raider02BodyF_0Belly Tight" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Tight</Data>
+        </Slider>
+        <Slider name="Belly In" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly In" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly In</Data>
+            <Data name="Raider02BodyF_0Belly In" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly In</Data>
+        </Slider>
+        <Slider name="Belly Rotate Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Rotate Up" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Rotate Up</Data>
+            <Data name="Raider02BodyF_0Belly Rotate Up" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Rotate Up</Data>
+        </Slider>
+        <Slider name="Belly Wider" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Wider" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Wider</Data>
+            <Data name="Raider02BodyF_0Belly Wider" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Wider</Data>
+        </Slider>
+        <Slider name="Chest Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyChest Definition" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyChest Definition</Data>
+            <Data name="Raider02BodyF_0Chest Definition" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Chest Definition</Data>
+        </Slider>
+        <Slider name="Belly Line" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Line" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Line</Data>
+            <Data name="Raider02BodyF_0Belly Line" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Line</Data>
+        </Slider>
+        <Slider name="Thin Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyThin Belly" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyThin Belly</Data>
+            <Data name="Raider02BodyF_0Thin Belly" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thin Belly</Data>
+        </Slider>
+        <Slider name="Belly Thicc" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Thicc" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBelly Thicc</Data>
+            <Data name="Raider02BodyF_0Belly Thicc" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Belly Thicc</Data>
+        </Slider>
+        <Slider name="Biceps" invert="false" default="0">
+            <Data name="True Wasteland BodyBiceps" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBiceps</Data>
+            <Data name="Raider02BodyF_0Biceps" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Biceps</Data>
+        </Slider>
+        <Slider name="Back Bulge" invert="false" default="0">
+            <Data name="True Wasteland BodyBack Bulge" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBack Bulge</Data>
+            <Data name="Raider02BodyF_0Back Bulge" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Back Bulge</Data>
+        </Slider>
+        <Slider name="Thigh Muscular" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Muscular" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyThigh Muscular</Data>
+            <Data name="Raider02BodyF_0Thigh Muscular" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thigh Muscular</Data>
+        </Slider>
+        <Slider name="Knee Thing" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Thing" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyKnee Thing</Data>
+            <Data name="Raider02BodyF_0Knee Thing" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Knee Thing</Data>
+        </Slider>
+        <Slider name="More Abs" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Abs" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyMore Abs</Data>
+            <Data name="Raider02BodyF_0More Abs" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0More Abs</Data>
+        </Slider>
+        <Slider name="Abdomin Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Smooth" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyAbdomin Smooth</Data>
+            <Data name="Raider02BodyF_0Abdomin Smooth" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Abdomin Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Flex" invert="false" default="0">
+            <Data name="True Wasteland BodyShoulder Flex" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyShoulder Flex</Data>
+            <Data name="Raider02BodyF_0Shoulder Flex" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Shoulder Flex</Data>
+        </Slider>
+        <Slider name="Plump Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyPlump Ass" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyPlump Ass</Data>
+            <Data name="Raider02BodyF_0Plump Ass" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Plump Ass</Data>
+        </Slider>
+        <Slider name="Thicc Knees" invert="false" default="0">
+            <Data name="True Wasteland BodyThicc Knees" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyThicc Knees</Data>
+            <Data name="Raider02BodyF_0Thicc Knees" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Thicc Knees</Data>
+        </Slider>
+        <Slider name="Upper Arm Mass" invert="false" default="0">
+            <Data name="True Wasteland BodyUpper Arm Mass" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyUpper Arm Mass</Data>
+            <Data name="Raider02BodyF_0Upper Arm Mass" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Upper Arm Mass</Data>
+        </Slider>
+        <Slider name="Body aTightTiger" invert="false" default="0">
+            <Data name="True Wasteland BodyBody aTightTiger" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBody aTightTiger</Data>
+            <Data name="Raider02BodyF_0Body aTightTiger" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Body aTightTiger</Data>
+        </Slider>
+        <Slider name="Body Clamp" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Clamp" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBody Clamp</Data>
+            <Data name="Raider02BodyF_0Body Clamp" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Body Clamp</Data>
+        </Slider>
+        <Slider name="Body WINININININ" invert="false" default="0">
+            <Data name="True Wasteland BodyBody WINININININ" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBody WINININININ</Data>
+            <Data name="Raider02BodyF_0Body WINININININ" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Body WINININININ</Data>
+        </Slider>
+        <Slider name="Body Keep" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Keep" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBody Keep</Data>
+            <Data name="Raider02BodyF_0Body Keep" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Body Keep</Data>
+        </Slider>
+        <Slider name="Body a Soul Body" invert="false" default="0">
+            <Data name="True Wasteland BodyBody a Soul Body" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBody a Soul Body</Data>
+            <Data name="Raider02BodyF_0Body a Soul Body" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Body a Soul Body</Data>
+        </Slider>
+        <Slider name="Body Vanilla Coke" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Vanilla Coke" target="True Wasteland Body" local="true">Raider 2.osd\True Wasteland BodyBody Vanilla Coke</Data>
+            <Data name="Raider02BodyF_0Body Vanilla Coke" target="Raider02BodyF_0" local="true">Raider 2.osd\Raider02BodyF_0Body Vanilla Coke</Data>
+        </Slider>
+    </SliderSet>
 </SliderSetInfo>
