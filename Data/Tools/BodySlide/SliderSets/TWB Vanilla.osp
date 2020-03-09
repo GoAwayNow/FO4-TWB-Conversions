@@ -20337,4 +20337,717 @@
             <Data name="gloves_1Body Vanilla Coke" target="gloves_1" local="true">Raider Heavy Underarmor.osd\gloves_1Body Vanilla Coke</Data>
         </Slider>
     </SliderSet>
+    <SliderSet name="TWB Vanilla - Red Rocket Jumpsuit">
+        <DataFolder>TWB Vanilla</DataFolder>
+        <SourceFile>Red Rocket Jumpsuit.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\RedRocketJumpsuit</OutputPath>
+        <OutputFile GenWeights="false">RedRocketJumpsuitF</OutputFile>
+        <Shape target="RRJumpsuitF_0">RRJumpsuitF_0</Shape>
+        <Shape target="True Wasteland Body" DataFolder="CBBE">True Wasteland Body</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreasts</Data>
+            <Data name="RRJumpsuitF_0Breasts" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Breasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland Body</Data>
+            <Data name="RRJumpsuitF_0BreastsCleavage" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastsGone</Data>
+            <Data name="RRJumpsuitF_0BreastsGone" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastsNewSH</Data>
+            <Data name="RRJumpsuitF_0BreastsNewSH" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastsSmall</Data>
+            <Data name="RRJumpsuitF_0BreastsSmall" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastsSmall2</Data>
+            <Data name="RRJumpsuitF_0BreastsSmall2" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland Body</Data>
+            <Data name="RRJumpsuitF_0BreastsTogether" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastTopSlope</Data>
+            <Data name="RRJumpsuitF_0BreastTopSlope" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastWidth</Data>
+            <Data name="RRJumpsuitF_0BreastWidth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEButt</Data>
+            <Data name="RRJumpsuitF_0Butt" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Butt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEButtCrack</Data>
+            <Data name="RRJumpsuitF_0ButtCrack" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEButtNew</Data>
+            <Data name="RRJumpsuitF_0ButtNew" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEButtShape2</Data>
+            <Data name="RRJumpsuitF_0ButtShape2" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEButtSmall</Data>
+            <Data name="RRJumpsuitF_0ButtSmall" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBECalfSize</Data>
+            <Data name="RRJumpsuitF_0CalfSize" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBECalfSmooth</Data>
+            <Data name="RRJumpsuitF_0CalfSmooth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEChestDepth</Data>
+            <Data name="RRJumpsuitF_0ChestDepth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEChestWidth</Data>
+            <Data name="RRJumpsuitF_0ChestWidth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEChubbyArms</Data>
+            <Data name="RRJumpsuitF_0ChubbyArms" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEChubbyButt</Data>
+            <Data name="RRJumpsuitF_0ChubbyButt" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEChubbyLegs</Data>
+            <Data name="RRJumpsuitF_0ChubbyLegs" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEChubbyWaist</Data>
+            <Data name="RRJumpsuitF_0ChubbyWaist" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBECrotchBack</Data>
+            <Data name="RRJumpsuitF_0CrotchBack" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0CrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEDoubleMelon</Data>
+            <Data name="RRJumpsuitF_0DoubleMelon" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0DoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEGroin</Data>
+            <Data name="RRJumpsuitF_0Groin" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Groin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEHipBack</Data>
+            <Data name="RRJumpsuitF_0HipBack" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0HipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEHipBone</Data>
+            <Data name="RRJumpsuitF_0HipBone" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0HipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEHips</Data>
+            <Data name="RRJumpsuitF_0Hips" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEHipUpperWidth</Data>
+            <Data name="RRJumpsuitF_0HipUpperWidth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0HipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEKneeHeight</Data>
+            <Data name="RRJumpsuitF_0KneeHeight" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0KneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBELegShape</Data>
+            <Data name="RRJumpsuitF_0LegShape" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0LegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBELegsThin</Data>
+            <Data name="RRJumpsuitF_0LegsThin" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0LegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleDistance</Data>
+            <Data name="RRJumpsuitF_0NippleDistance" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland Body</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleUp</Data>
+            <Data name="RRJumpsuitF_0NippleUp" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0NippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEPregnancyBelly</Data>
+            <Data name="RRJumpsuitF_0PregnancyBelly" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0PregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEPushUp</Data>
+            <Data name="RRJumpsuitF_0PushUp" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0PushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBERoundAss</Data>
+            <Data name="RRJumpsuitF_0RoundAss" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0RoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEShoulderSmooth</Data>
+            <Data name="RRJumpsuitF_0ShoulderSmooth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEShoulderTweak</Data>
+            <Data name="RRJumpsuitF_0ShoulderTweak" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEShoulderWidth</Data>
+            <Data name="RRJumpsuitF_0ShoulderWidth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBESlimThighs</Data>
+            <Data name="RRJumpsuitF_0SlimThighs" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0SlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBESternumDepth</Data>
+            <Data name="RRJumpsuitF_0SternumDepth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0SternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBESternumHeight</Data>
+            <Data name="RRJumpsuitF_0SternumHeight" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0SternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEThighs</Data>
+            <Data name="RRJumpsuitF_0Thighs" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBETummyTuck</Data>
+            <Data name="RRJumpsuitF_0TummyTuck" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0TummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEVanillaFo4</Data>
+            <Data name="RRJumpsuitF_0VanillaFo4" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0VanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEWaist</Data>
+            <Data name="RRJumpsuitF_0Waist" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Waist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEWaistHeight</Data>
+            <Data name="RRJumpsuitF_0WaistHeight" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0WaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEWideWaistLine</Data>
+            <Data name="RRJumpsuitF_0WideWaistLine" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0WideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEAnkles</Data>
+            <Data name="RRJumpsuitF_0Ankles" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Ankles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEAppleCheeks</Data>
+            <Data name="RRJumpsuitF_0AppleCheeks" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0AppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEArms</Data>
+            <Data name="RRJumpsuitF_0Arms" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBack</Data>
+            <Data name="RRJumpsuitF_0Back" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBackArch</Data>
+            <Data name="RRJumpsuitF_0BackArch" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBelly</Data>
+            <Data name="RRJumpsuitF_0Belly" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBigBelly</Data>
+            <Data name="RRJumpsuitF_0BigBelly" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBigButt</Data>
+            <Data name="RRJumpsuitF_0BigButt" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBigTorso</Data>
+            <Data name="RRJumpsuitF_0BigTorso" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastCenter</Data>
+            <Data name="RRJumpsuitF_0BreastCenter" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland Body</Data>
+            <Data name="RRJumpsuitF_0BreastCenterBig" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastFantasy</Data>
+            <Data name="RRJumpsuitF_0BreastFantasy" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland Body</Data>
+            <Data name="RRJumpsuitF_0BreastFlatness2" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastGravity2</Data>
+            <Data name="RRJumpsuitF_0BreastGravity2" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEBreastHeight</Data>
+            <Data name="RRJumpsuitF_0BreastHeight" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland Body</Data>
+            <Data name="RRJumpsuitF_0BreastPerkiness" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEArmpitHeight</Data>
+            <Data name="RRJumpsuitF_0ArmpitHeight" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEForearmSize</Data>
+            <Data name="RRJumpsuitF_0ForearmSize" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0ForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBENippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBE7B Upper</Data>
+            <Data name="RRJumpsuitF_07B Upper" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_07B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBE7B Lower</Data>
+            <Data name="RRJumpsuitF_07B Lower" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_07B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEMuscularChest</Data>
+            <Data name="RRJumpsuitF_0MuscularChest" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0MuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEMuscularArms</Data>
+            <Data name="RRJumpsuitF_0MuscularArms" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0MuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEMuscularButt</Data>
+            <Data name="RRJumpsuitF_0MuscularButt" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0MuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\CBBEMuscularLegs</Data>
+            <Data name="RRJumpsuitF_0MuscularLegs" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0MuscularLegs</Data>
+        </Slider>
+        <Slider name="BodyZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="True Wasteland BodyBodyZap" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBodyZap</Data>
+        </Slider>
+        <Slider name="FFB Fitness Less" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Less" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyFFB Fitness Less</Data>
+            <Data name="RRJumpsuitF_0FFB Fitness Less" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0FFB Fitness Less</Data>
+        </Slider>
+        <Slider name="FFB Fitness More" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness More" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyFFB Fitness More</Data>
+            <Data name="RRJumpsuitF_0FFB Fitness More" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0FFB Fitness More</Data>
+        </Slider>
+        <Slider name="FFB Fitness Very" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Very" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyFFB Fitness Very</Data>
+            <Data name="RRJumpsuitF_0FFB Fitness Very" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0FFB Fitness Very</Data>
+        </Slider>
+        <Slider name="FFB High Heels Feet" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB High Heels Feet" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyFFB High Heels Feet</Data>
+            <Data name="RRJumpsuitF_0FFB High Heels Feet" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0FFB High Heels Feet</Data>
+        </Slider>
+        <Slider name="CBBE to FFB" invert="false" default="0">
+            <Data name="True Wasteland BodyCBBE to FFB" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyCBBE to FFB</Data>
+            <Data name="RRJumpsuitF_0CBBE to FFB" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0CBBE to FFB</Data>
+        </Slider>
+        <Slider name="Athlete" invert="false" default="0">
+            <Data name="True Wasteland BodyAthlete" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyAthlete</Data>
+            <Data name="RRJumpsuitF_0Athlete" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Athlete</Data>
+        </Slider>
+        <Slider name="BodyBuilder" invert="false" default="0">
+            <Data name="True Wasteland BodyBodyBuilder" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBodyBuilder</Data>
+            <Data name="RRJumpsuitF_0BodyBuilder" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BodyBuilder</Data>
+        </Slider>
+        <Slider name="Muscle Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscle Definition" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyMuscle Definition</Data>
+            <Data name="RRJumpsuitF_0Muscle Definition" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Muscle Definition</Data>
+        </Slider>
+        <Slider name="Fitness" invert="false" default="0">
+            <Data name="True Wasteland BodyFitness" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyFitness</Data>
+            <Data name="RRJumpsuitF_0Fitness" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Fitness</Data>
+        </Slider>
+        <Slider name="Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyTone" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyTone</Data>
+            <Data name="RRJumpsuitF_0Tone" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Tone</Data>
+        </Slider>
+        <Slider name="Shades " invert="false" default="0">
+            <Data name="True Wasteland BodyShades " target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyShades </Data>
+            <Data name="RRJumpsuitF_0Shades " target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Shades </Data>
+        </Slider>
+        <Slider name="Dibella" invert="false" default="0">
+            <Data name="True Wasteland BodyDibella" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyDibella</Data>
+            <Data name="RRJumpsuitF_0Dibella" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Dibella</Data>
+        </Slider>
+        <Slider name="Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyAtomic Beauty" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyAtomic Beauty</Data>
+            <Data name="RRJumpsuitF_0Atomic Beauty" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Atomic Beauty</Data>
+        </Slider>
+        <Slider name="Big Soft Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Soft Belly" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBig Soft Belly</Data>
+            <Data name="RRJumpsuitF_0Big Soft Belly" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Big Soft Belly</Data>
+        </Slider>
+        <Slider name="Explosion" invert="false" default="0">
+            <Data name="True Wasteland BodyExplosion" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyExplosion</Data>
+            <Data name="RRJumpsuitF_0Explosion" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Explosion</Data>
+        </Slider>
+        <Slider name="BBW" invert="false" default="0">
+            <Data name="True Wasteland BodyBBW" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBBW</Data>
+            <Data name="RRJumpsuitF_0BBW" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0BBW</Data>
+        </Slider>
+        <Slider name="Detailed" invert="false" default="0">
+            <Data name="True Wasteland BodyDetailed" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyDetailed</Data>
+            <Data name="RRJumpsuitF_0Detailed" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Detailed</Data>
+        </Slider>
+        <Slider name="Xun ABS" invert="false" default="0">
+            <Data name="True Wasteland BodyXun ABS" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyXun ABS</Data>
+            <Data name="RRJumpsuitF_0Xun ABS" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Xun ABS</Data>
+        </Slider>
+        <Slider name="Boob Concave" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Concave" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBoob Concave</Data>
+            <Data name="RRJumpsuitF_0Boob Concave" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Boob Concave</Data>
+        </Slider>
+        <Slider name="Belly Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Smooth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Smooth</Data>
+            <Data name="RRJumpsuitF_0Belly Smooth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Smooth</Data>
+        </Slider>
+        <Slider name="AB Template" invert="false" default="0">
+            <Data name="True Wasteland BodyAB Template" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyAB Template</Data>
+            <Data name="RRJumpsuitF_0AB Template" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0AB Template</Data>
+        </Slider>
+        <Slider name="Real Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyReal Atomic Beauty" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyReal Atomic Beauty</Data>
+            <Data name="RRJumpsuitF_0Real Atomic Beauty" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Real Atomic Beauty</Data>
+        </Slider>
+        <Slider name="New Atomic" invert="false" default="0">
+            <Data name="True Wasteland BodyNew Atomic" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyNew Atomic</Data>
+            <Data name="RRJumpsuitF_0New Atomic" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0New Atomic</Data>
+        </Slider>
+        <Slider name="Narrow Hips" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Hips" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyNarrow Hips</Data>
+            <Data name="RRJumpsuitF_0Narrow Hips" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Narrow Hips</Data>
+        </Slider>
+        <Slider name="Leg Slimmer" invert="false" default="0">
+            <Data name="True Wasteland BodyLeg Slimmer" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyLeg Slimmer</Data>
+            <Data name="RRJumpsuitF_0Leg Slimmer" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Leg Slimmer</Data>
+        </Slider>
+        <Slider name="More Chest Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Chest Depth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyMore Chest Depth</Data>
+            <Data name="RRJumpsuitF_0More Chest Depth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0More Chest Depth</Data>
+        </Slider>
+        <Slider name="Lower Waist" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Waist" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyLower Waist</Data>
+            <Data name="RRJumpsuitF_0Lower Waist" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Lower Waist</Data>
+        </Slider>
+        <Slider name="Wider Back" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Back" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyWider Back</Data>
+            <Data name="RRJumpsuitF_0Wider Back" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Wider Back</Data>
+        </Slider>
+        <Slider name="Hips Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Forward" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyHips Forward</Data>
+            <Data name="RRJumpsuitF_0Hips Forward" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Hips Forward</Data>
+        </Slider>
+        <Slider name="Lower Back Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Back Smooth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyLower Back Smooth</Data>
+            <Data name="RRJumpsuitF_0Lower Back Smooth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Lower Back Smooth</Data>
+        </Slider>
+        <Slider name="Smooth Thighs" invert="false" default="0">
+            <Data name="True Wasteland BodySmooth Thighs" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodySmooth Thighs</Data>
+            <Data name="RRJumpsuitF_0Smooth Thighs" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Smooth Thighs</Data>
+        </Slider>
+        <Slider name="Boob Height" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Height" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBoob Height</Data>
+            <Data name="RRJumpsuitF_0Boob Height" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Boob Height</Data>
+        </Slider>
+        <Slider name="Smaller Torso" invert="false" default="0">
+            <Data name="True Wasteland BodySmaller Torso" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodySmaller Torso</Data>
+            <Data name="RRJumpsuitF_0Smaller Torso" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Smaller Torso</Data>
+        </Slider>
+        <Slider name="Larger Nipples" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Nipples" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyLarger Nipples</Data>
+            <Data name="RRJumpsuitF_0Larger Nipples" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Larger Nipples</Data>
+        </Slider>
+        <Slider name="Wider Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Ass" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyWider Ass</Data>
+            <Data name="RRJumpsuitF_0Wider Ass" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Wider Ass</Data>
+        </Slider>
+        <Slider name="Ass Stretch" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Stretch" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyAss Stretch</Data>
+            <Data name="RRJumpsuitF_0Ass Stretch" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Ass Stretch</Data>
+        </Slider>
+        <Slider name="Narrow Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Ass" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyNarrow Ass</Data>
+            <Data name="RRJumpsuitF_0Narrow Ass" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Narrow Ass</Data>
+        </Slider>
+        <Slider name="Ass Height" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Height" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyAss Height</Data>
+            <Data name="RRJumpsuitF_0Ass Height" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Ass Height</Data>
+        </Slider>
+        <Slider name="Larger Torso" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Torso" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyLarger Torso</Data>
+            <Data name="RRJumpsuitF_0Larger Torso" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Larger Torso</Data>
+        </Slider>
+        <Slider name="Muscular Body" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscular Body" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyMuscular Body</Data>
+            <Data name="RRJumpsuitF_0Muscular Body" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Muscular Body</Data>
+        </Slider>
+        <Slider name="Tigersan" invert="false" default="0">
+            <Data name="True Wasteland BodyTigersan" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyTigersan</Data>
+            <Data name="RRJumpsuitF_0Tigersan" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Tigersan</Data>
+        </Slider>
+        <Slider name="Breast Narrow" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Narrow" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBreast Narrow</Data>
+            <Data name="RRJumpsuitF_0Breast Narrow" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Breast Narrow</Data>
+        </Slider>
+        <Slider name="Breast Curve Down" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve Down" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBreast Curve Down</Data>
+            <Data name="RRJumpsuitF_0Breast Curve Down" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Breast Curve Down</Data>
+        </Slider>
+        <Slider name="Breast Curve" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBreast Curve</Data>
+            <Data name="RRJumpsuitF_0Breast Curve" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Breast Curve</Data>
+        </Slider>
+        <Slider name="Breast Armpit In" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit In" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBreast Armpit In</Data>
+            <Data name="RRJumpsuitF_0Breast Armpit In" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Breast Armpit In</Data>
+        </Slider>
+        <Slider name="Breast Armpit Wide" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit Wide" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBreast Armpit Wide</Data>
+            <Data name="RRJumpsuitF_0Breast Armpit Wide" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Breast Armpit Wide</Data>
+        </Slider>
+        <Slider name="Nipple Shape Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Shape Depth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyNipple Shape Depth</Data>
+            <Data name="RRJumpsuitF_0Nipple Shape Depth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Nipple Shape Depth</Data>
+        </Slider>
+        <Slider name="Nipple Tips Flat" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Tips Flat" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyNipple Tips Flat</Data>
+            <Data name="RRJumpsuitF_0Nipple Tips Flat" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Nipple Tips Flat</Data>
+        </Slider>
+        <Slider name="Big Rib Cage" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Rib Cage" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBig Rib Cage</Data>
+            <Data name="RRJumpsuitF_0Big Rib Cage" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Big Rib Cage</Data>
+        </Slider>
+        <Slider name="Butt Dimples" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Dimples" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyButt Dimples</Data>
+            <Data name="RRJumpsuitF_0Butt Dimples" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Butt Dimples</Data>
+        </Slider>
+        <Slider name="Butt Thin" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Thin" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyButt Thin</Data>
+            <Data name="RRJumpsuitF_0Butt Thin" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Butt Thin</Data>
+        </Slider>
+        <Slider name="Butt Up" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Up" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyButt Up</Data>
+            <Data name="RRJumpsuitF_0Butt Up" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Butt Up</Data>
+        </Slider>
+        <Slider name="Butt Crease" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Crease" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyButt Crease</Data>
+            <Data name="RRJumpsuitF_0Butt Crease" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Butt Crease</Data>
+        </Slider>
+        <Slider name="Hips Up" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Up" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyHips Up</Data>
+            <Data name="RRJumpsuitF_0Hips Up" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Hips Up</Data>
+        </Slider>
+        <Slider name="Hip Line" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Line" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyHip Line</Data>
+            <Data name="RRJumpsuitF_0Hip Line" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Hip Line</Data>
+        </Slider>
+        <Slider name="Hip Rotate Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Rotate Forward" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyHip Rotate Forward</Data>
+            <Data name="RRJumpsuitF_0Hip Rotate Forward" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Hip Rotate Forward</Data>
+        </Slider>
+        <Slider name="Pelvis Up" invert="false" default="0">
+            <Data name="True Wasteland BodyPelvis Up" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyPelvis Up</Data>
+            <Data name="RRJumpsuitF_0Pelvis Up" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Pelvis Up</Data>
+        </Slider>
+        <Slider name="Pussy Down" invert="false" default="0">
+            <Data name="True Wasteland BodyPussy Down" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyPussy Down</Data>
+            <Data name="RRJumpsuitF_0Pussy Down" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Pussy Down</Data>
+        </Slider>
+        <Slider name="Pussy Pinch" invert="false" default="0">
+            <Data name="True Wasteland BodyPussy Pinch" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyPussy Pinch</Data>
+            <Data name="RRJumpsuitF_0Pussy Pinch" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Pussy Pinch</Data>
+        </Slider>
+        <Slider name="Thigh Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Tone" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyThigh Tone</Data>
+            <Data name="RRJumpsuitF_0Thigh Tone" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thigh Tone</Data>
+        </Slider>
+        <Slider name="Thigh Together" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Together" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyThigh Together</Data>
+            <Data name="RRJumpsuitF_0Thigh Together" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thigh Together</Data>
+        </Slider>
+        <Slider name="Thigh Apart" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Apart" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyThigh Apart</Data>
+            <Data name="RRJumpsuitF_0Thigh Apart" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thigh Apart</Data>
+        </Slider>
+        <Slider name="Thigh Back Thick" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Back Thick" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyThigh Back Thick</Data>
+            <Data name="RRJumpsuitF_0Thigh Back Thick" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thigh Back Thick</Data>
+        </Slider>
+        <Slider name="Thigh Gap" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Gap" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyThigh Gap</Data>
+            <Data name="RRJumpsuitF_0Thigh Gap" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thigh Gap</Data>
+        </Slider>
+        <Slider name="Knee Detail" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Detail" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyKnee Detail</Data>
+            <Data name="RRJumpsuitF_0Knee Detail" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Knee Detail</Data>
+        </Slider>
+        <Slider name="Abdomin Down" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Down" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyAbdomin Down</Data>
+            <Data name="RRJumpsuitF_0Abdomin Down" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Abdomin Down</Data>
+        </Slider>
+        <Slider name="Abdomin Size" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Size" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyAbdomin Size</Data>
+            <Data name="RRJumpsuitF_0Abdomin Size" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Abdomin Size</Data>
+        </Slider>
+        <Slider name="Smoother Belly" invert="false" default="0">
+            <Data name="True Wasteland BodySmoother Belly" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodySmoother Belly</Data>
+            <Data name="RRJumpsuitF_0Smoother Belly" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Smoother Belly</Data>
+        </Slider>
+        <Slider name="Belly Define" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Define" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Define</Data>
+            <Data name="RRJumpsuitF_0Belly Define" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Define</Data>
+        </Slider>
+        <Slider name="Belly Diameter" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Diameter" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Diameter</Data>
+            <Data name="RRJumpsuitF_0Belly Diameter" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Diameter</Data>
+        </Slider>
+        <Slider name="Belly Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Up" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Up</Data>
+            <Data name="RRJumpsuitF_0Belly Up" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Up</Data>
+        </Slider>
+        <Slider name="Belly Tight" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Tight" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Tight</Data>
+            <Data name="RRJumpsuitF_0Belly Tight" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Tight</Data>
+        </Slider>
+        <Slider name="Belly In" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly In" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly In</Data>
+            <Data name="RRJumpsuitF_0Belly In" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly In</Data>
+        </Slider>
+        <Slider name="Belly Rotate Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Rotate Up" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Rotate Up</Data>
+            <Data name="RRJumpsuitF_0Belly Rotate Up" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Rotate Up</Data>
+        </Slider>
+        <Slider name="Belly Wider" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Wider" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Wider</Data>
+            <Data name="RRJumpsuitF_0Belly Wider" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Wider</Data>
+        </Slider>
+        <Slider name="Chest Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyChest Definition" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyChest Definition</Data>
+            <Data name="RRJumpsuitF_0Chest Definition" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Chest Definition</Data>
+        </Slider>
+        <Slider name="Belly Line" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Line" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Line</Data>
+            <Data name="RRJumpsuitF_0Belly Line" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Line</Data>
+        </Slider>
+        <Slider name="Thin Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyThin Belly" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyThin Belly</Data>
+            <Data name="RRJumpsuitF_0Thin Belly" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thin Belly</Data>
+        </Slider>
+        <Slider name="Belly Thicc" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Thicc" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBelly Thicc</Data>
+            <Data name="RRJumpsuitF_0Belly Thicc" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Belly Thicc</Data>
+        </Slider>
+        <Slider name="Biceps" invert="false" default="0">
+            <Data name="True Wasteland BodyBiceps" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBiceps</Data>
+            <Data name="RRJumpsuitF_0Biceps" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Biceps</Data>
+        </Slider>
+        <Slider name="Back Bulge" invert="false" default="0">
+            <Data name="True Wasteland BodyBack Bulge" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBack Bulge</Data>
+            <Data name="RRJumpsuitF_0Back Bulge" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Back Bulge</Data>
+        </Slider>
+        <Slider name="Thigh Muscular" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Muscular" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyThigh Muscular</Data>
+            <Data name="RRJumpsuitF_0Thigh Muscular" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thigh Muscular</Data>
+        </Slider>
+        <Slider name="Knee Thing" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Thing" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyKnee Thing</Data>
+            <Data name="RRJumpsuitF_0Knee Thing" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Knee Thing</Data>
+        </Slider>
+        <Slider name="More Abs" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Abs" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyMore Abs</Data>
+            <Data name="RRJumpsuitF_0More Abs" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0More Abs</Data>
+        </Slider>
+        <Slider name="Abdomin Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Smooth" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyAbdomin Smooth</Data>
+            <Data name="RRJumpsuitF_0Abdomin Smooth" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Abdomin Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Flex" invert="false" default="0">
+            <Data name="True Wasteland BodyShoulder Flex" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyShoulder Flex</Data>
+            <Data name="RRJumpsuitF_0Shoulder Flex" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Shoulder Flex</Data>
+        </Slider>
+        <Slider name="Plump Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyPlump Ass" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyPlump Ass</Data>
+            <Data name="RRJumpsuitF_0Plump Ass" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Plump Ass</Data>
+        </Slider>
+        <Slider name="Thicc Knees" invert="false" default="0">
+            <Data name="True Wasteland BodyThicc Knees" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyThicc Knees</Data>
+            <Data name="RRJumpsuitF_0Thicc Knees" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Thicc Knees</Data>
+        </Slider>
+        <Slider name="Upper Arm Mass" invert="false" default="0">
+            <Data name="True Wasteland BodyUpper Arm Mass" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyUpper Arm Mass</Data>
+            <Data name="RRJumpsuitF_0Upper Arm Mass" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Upper Arm Mass</Data>
+        </Slider>
+        <Slider name="Body aTightTiger" invert="false" default="0">
+            <Data name="True Wasteland BodyBody aTightTiger" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBody aTightTiger</Data>
+            <Data name="RRJumpsuitF_0Body aTightTiger" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Body aTightTiger</Data>
+        </Slider>
+        <Slider name="Body Clamp" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Clamp" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBody Clamp</Data>
+            <Data name="RRJumpsuitF_0Body Clamp" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Body Clamp</Data>
+        </Slider>
+        <Slider name="Body WINININININ" invert="false" default="0">
+            <Data name="True Wasteland BodyBody WINININININ" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBody WINININININ</Data>
+            <Data name="RRJumpsuitF_0Body WINININININ" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Body WINININININ</Data>
+        </Slider>
+        <Slider name="Body Keep" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Keep" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBody Keep</Data>
+            <Data name="RRJumpsuitF_0Body Keep" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Body Keep</Data>
+        </Slider>
+        <Slider name="Body a Soul Body" invert="false" default="0">
+            <Data name="True Wasteland BodyBody a Soul Body" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBody a Soul Body</Data>
+            <Data name="RRJumpsuitF_0Body a Soul Body" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Body a Soul Body</Data>
+        </Slider>
+        <Slider name="Body Vanilla Coke" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Vanilla Coke" target="True Wasteland Body" local="true">Red Rocket Jumpsuit.osd\True Wasteland BodyBody Vanilla Coke</Data>
+            <Data name="RRJumpsuitF_0Body Vanilla Coke" target="RRJumpsuitF_0" local="true">Red Rocket Jumpsuit.osd\RRJumpsuitF_0Body Vanilla Coke</Data>
+        </Slider>
+    </SliderSet>
 </SliderSetInfo>
