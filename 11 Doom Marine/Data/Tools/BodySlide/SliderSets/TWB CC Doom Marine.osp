@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="TWB Creation Club - Doom Marine Armor">
+        <DataFolder>TWB Creation Club</DataFolder>
+        <SourceFile>Doom Marine Armor.nif</SourceFile>
+        <OutputPath>Meshes\CreationClub\BGSFO4041\Armor\DoomMarineArmor</OutputPath>
+        <OutputFile GenWeights="false">DoomMarineArmor_F</OutputFile>
+        <Shape target="Body:0">Body:0</Shape>
+        <Shape target="True Wasteland Body" DataFolder="CBBE">True Wasteland Body</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreasts</Data>
+            <Data name="Body:0Breasts" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Breasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland Body</Data>
+            <Data name="Body:0BreastsCleavage" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastsGone</Data>
+            <Data name="Body:0BreastsGone" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastsNewSH</Data>
+            <Data name="Body:0BreastsNewSH" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastsSmall</Data>
+            <Data name="Body:0BreastsSmall" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastsSmall2</Data>
+            <Data name="Body:0BreastsSmall2" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland Body</Data>
+            <Data name="Body:0BreastsTogether" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastTopSlope</Data>
+            <Data name="Body:0BreastTopSlope" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastWidth</Data>
+            <Data name="Body:0BreastWidth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEButt</Data>
+            <Data name="Body:0Butt" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Butt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEButtCrack</Data>
+            <Data name="Body:0ButtCrack" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEButtNew</Data>
+            <Data name="Body:0ButtNew" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEButtShape2</Data>
+            <Data name="Body:0ButtShape2" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEButtSmall</Data>
+            <Data name="Body:0ButtSmall" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBECalfSize</Data>
+            <Data name="Body:0CalfSize" target="Body:0" local="true">Doom Marine Armor.osd\Body:0CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBECalfSmooth</Data>
+            <Data name="Body:0CalfSmooth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEChestDepth</Data>
+            <Data name="Body:0ChestDepth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEChestWidth</Data>
+            <Data name="Body:0ChestWidth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEChubbyArms</Data>
+            <Data name="Body:0ChubbyArms" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEChubbyButt</Data>
+            <Data name="Body:0ChubbyButt" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEChubbyLegs</Data>
+            <Data name="Body:0ChubbyLegs" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEChubbyWaist</Data>
+            <Data name="Body:0ChubbyWaist" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBECrotchBack</Data>
+            <Data name="Body:0CrotchBack" target="Body:0" local="true">Doom Marine Armor.osd\Body:0CrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEDoubleMelon</Data>
+            <Data name="Body:0DoubleMelon" target="Body:0" local="true">Doom Marine Armor.osd\Body:0DoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEGroin</Data>
+            <Data name="Body:0Groin" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Groin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEHipBack</Data>
+            <Data name="Body:0HipBack" target="Body:0" local="true">Doom Marine Armor.osd\Body:0HipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEHipBone</Data>
+            <Data name="Body:0HipBone" target="Body:0" local="true">Doom Marine Armor.osd\Body:0HipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEHips</Data>
+            <Data name="Body:0Hips" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEHipUpperWidth</Data>
+            <Data name="Body:0HipUpperWidth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0HipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEKneeHeight</Data>
+            <Data name="Body:0KneeHeight" target="Body:0" local="true">Doom Marine Armor.osd\Body:0KneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBELegShape</Data>
+            <Data name="Body:0LegShape" target="Body:0" local="true">Doom Marine Armor.osd\Body:0LegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBELegsThin</Data>
+            <Data name="Body:0LegsThin" target="Body:0" local="true">Doom Marine Armor.osd\Body:0LegsThin</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBENippleDistance</Data>
+            <Data name="Body:0NippleDistance" target="Body:0" local="true">Doom Marine Armor.osd\Body:0NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBENippleDown</Data>
+            <Data name="Body:0NippleDown" target="Body:0" local="true">Doom Marine Armor.osd\Body:0NippleDown</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland Body</Data>
+            <Data name="Body:0NipplePerkiness" target="Body:0" local="true">Doom Marine Armor.osd\Body:0NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBENippleUp</Data>
+            <Data name="Body:0NippleUp" target="Body:0" local="true">Doom Marine Armor.osd\Body:0NippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEPregnancyBelly</Data>
+            <Data name="Body:0PregnancyBelly" target="Body:0" local="true">Doom Marine Armor.osd\Body:0PregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEPushUp</Data>
+            <Data name="Body:0PushUp" target="Body:0" local="true">Doom Marine Armor.osd\Body:0PushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBERoundAss</Data>
+            <Data name="Body:0RoundAss" target="Body:0" local="true">Doom Marine Armor.osd\Body:0RoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEShoulderSmooth</Data>
+            <Data name="Body:0ShoulderSmooth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEShoulderTweak</Data>
+            <Data name="Body:0ShoulderTweak" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEShoulderWidth</Data>
+            <Data name="Body:0ShoulderWidth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBESlimThighs</Data>
+            <Data name="Body:0SlimThighs" target="Body:0" local="true">Doom Marine Armor.osd\Body:0SlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBESternumDepth</Data>
+            <Data name="Body:0SternumDepth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0SternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBESternumHeight</Data>
+            <Data name="Body:0SternumHeight" target="Body:0" local="true">Doom Marine Armor.osd\Body:0SternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEThighs</Data>
+            <Data name="Body:0Thighs" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBETummyTuck</Data>
+            <Data name="Body:0TummyTuck" target="Body:0" local="true">Doom Marine Armor.osd\Body:0TummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEVanillaFo4</Data>
+            <Data name="Body:0VanillaFo4" target="Body:0" local="true">Doom Marine Armor.osd\Body:0VanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEWaist</Data>
+            <Data name="Body:0Waist" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Waist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEWaistHeight</Data>
+            <Data name="Body:0WaistHeight" target="Body:0" local="true">Doom Marine Armor.osd\Body:0WaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEWideWaistLine</Data>
+            <Data name="Body:0WideWaistLine" target="Body:0" local="true">Doom Marine Armor.osd\Body:0WideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEAnkles</Data>
+            <Data name="Body:0Ankles" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Ankles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEAppleCheeks</Data>
+            <Data name="Body:0AppleCheeks" target="Body:0" local="true">Doom Marine Armor.osd\Body:0AppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEArms</Data>
+            <Data name="Body:0Arms" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBack</Data>
+            <Data name="Body:0Back" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBackArch</Data>
+            <Data name="Body:0BackArch" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBelly</Data>
+            <Data name="Body:0Belly" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBigBelly</Data>
+            <Data name="Body:0BigBelly" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBigButt</Data>
+            <Data name="Body:0BigButt" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBigTorso</Data>
+            <Data name="Body:0BigTorso" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastCenter</Data>
+            <Data name="Body:0BreastCenter" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland Body</Data>
+            <Data name="Body:0BreastCenterBig" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastFantasy</Data>
+            <Data name="Body:0BreastFantasy" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland Body</Data>
+            <Data name="Body:0BreastFlatness2" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastGravity2</Data>
+            <Data name="Body:0BreastGravity2" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEBreastHeight</Data>
+            <Data name="Body:0BreastHeight" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="True Wasteland Body" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland Body</Data>
+            <Data name="Body:0BreastPerkiness" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEArmpitHeight</Data>
+            <Data name="Body:0ArmpitHeight" target="Body:0" local="true">Doom Marine Armor.osd\Body:0ArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEForearmSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBE7B Upper</Data>
+            <Data name="Body:07B Upper" target="Body:0" local="true">Doom Marine Armor.osd\Body:07B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBE7B Lower</Data>
+            <Data name="Body:07B Lower" target="Body:0" local="true">Doom Marine Armor.osd\Body:07B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEMuscularChest</Data>
+            <Data name="Body:0MuscularChest" target="Body:0" local="true">Doom Marine Armor.osd\Body:0MuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEMuscularArms</Data>
+            <Data name="Body:0MuscularArms" target="Body:0" local="true">Doom Marine Armor.osd\Body:0MuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEMuscularButt</Data>
+            <Data name="Body:0MuscularButt" target="Body:0" local="true">Doom Marine Armor.osd\Body:0MuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="True Wasteland Body" local="true">Doom Marine Armor.osd\CBBEMuscularLegs</Data>
+            <Data name="Body:0MuscularLegs" target="Body:0" local="true">Doom Marine Armor.osd\Body:0MuscularLegs</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" default="0">
+            <Data name="Body:0FeetFeminine" target="Body:0" local="true">Doom Marine Armor.osd\Body:0FeetFeminine</Data>
+        </Slider>
+        <Slider name="Breast Dip" invert="false" default="0">
+            <Data name="Body:0Breast Dip" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Breast Dip</Data>
+        </Slider>
+        <Slider name="Spine Dip" invert="false" default="0">
+            <Data name="Body:0Spine Dip" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Spine Dip</Data>
+        </Slider>
+        <Slider name="Butt Dip" invert="false" default="0">
+            <Data name="Body:0Butt Dip" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Butt Dip</Data>
+        </Slider>
+        <Slider name="Nipple Compensate" invert="false" default="0">
+            <Data name="Body:0Nipple Compensate" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Nipple Compensate</Data>
+        </Slider>
+        <Slider name="FFB Fitness Less" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Less" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyFFB Fitness Less</Data>
+            <Data name="Body:0FFB Fitness Less" target="Body:0" local="true">Doom Marine Armor.osd\Body:0FFB Fitness Less</Data>
+        </Slider>
+        <Slider name="FFB Fitness More" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness More" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyFFB Fitness More</Data>
+            <Data name="Body:0FFB Fitness More" target="Body:0" local="true">Doom Marine Armor.osd\Body:0FFB Fitness More</Data>
+        </Slider>
+        <Slider name="FFB Fitness Very" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB Fitness Very" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyFFB Fitness Very</Data>
+            <Data name="Body:0FFB Fitness Very" target="Body:0" local="true">Doom Marine Armor.osd\Body:0FFB Fitness Very</Data>
+        </Slider>
+        <Slider name="FFB High Heels Feet" invert="false" default="0">
+            <Data name="True Wasteland BodyFFB High Heels Feet" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyFFB High Heels Feet</Data>
+            <Data name="Body:0FFB High Heels Feet" target="Body:0" local="true">Doom Marine Armor.osd\Body:0FFB High Heels Feet</Data>
+        </Slider>
+        <Slider name="CBBE to FFB" invert="false" default="0">
+            <Data name="True Wasteland BodyCBBE to FFB" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyCBBE to FFB</Data>
+            <Data name="Body:0CBBE to FFB" target="Body:0" local="true">Doom Marine Armor.osd\Body:0CBBE to FFB</Data>
+        </Slider>
+        <Slider name="Athlete" invert="false" default="0">
+            <Data name="True Wasteland BodyAthlete" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyAthlete</Data>
+            <Data name="Body:0Athlete" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Athlete</Data>
+        </Slider>
+        <Slider name="BodyBuilder" invert="false" default="0">
+            <Data name="True Wasteland BodyBodyBuilder" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBodyBuilder</Data>
+            <Data name="Body:0BodyBuilder" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BodyBuilder</Data>
+        </Slider>
+        <Slider name="Muscle Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscle Definition" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyMuscle Definition</Data>
+            <Data name="Body:0Muscle Definition" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Muscle Definition</Data>
+        </Slider>
+        <Slider name="Fitness" invert="false" default="0">
+            <Data name="True Wasteland BodyFitness" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyFitness</Data>
+            <Data name="Body:0Fitness" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Fitness</Data>
+        </Slider>
+        <Slider name="Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyTone" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyTone</Data>
+            <Data name="Body:0Tone" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Tone</Data>
+        </Slider>
+        <Slider name="Shades " invert="false" default="0">
+            <Data name="True Wasteland BodyShades " target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyShades </Data>
+            <Data name="Body:0Shades " target="Body:0" local="true">Doom Marine Armor.osd\Body:0Shades </Data>
+        </Slider>
+        <Slider name="Dibella" invert="false" default="0">
+            <Data name="True Wasteland BodyDibella" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyDibella</Data>
+            <Data name="Body:0Dibella" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Dibella</Data>
+        </Slider>
+        <Slider name="Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyAtomic Beauty" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyAtomic Beauty</Data>
+            <Data name="Body:0Atomic Beauty" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Atomic Beauty</Data>
+        </Slider>
+        <Slider name="Big Soft Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Soft Belly" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBig Soft Belly</Data>
+            <Data name="Body:0Big Soft Belly" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Big Soft Belly</Data>
+        </Slider>
+        <Slider name="Explosion" invert="false" default="0">
+            <Data name="True Wasteland BodyExplosion" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyExplosion</Data>
+            <Data name="Body:0Explosion" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Explosion</Data>
+        </Slider>
+        <Slider name="BBW" invert="false" default="0">
+            <Data name="True Wasteland BodyBBW" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBBW</Data>
+            <Data name="Body:0BBW" target="Body:0" local="true">Doom Marine Armor.osd\Body:0BBW</Data>
+        </Slider>
+        <Slider name="Detailed" invert="false" default="0">
+            <Data name="True Wasteland BodyDetailed" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyDetailed</Data>
+            <Data name="Body:0Detailed" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Detailed</Data>
+        </Slider>
+        <Slider name="Xun ABS" invert="false" default="0">
+            <Data name="True Wasteland BodyXun ABS" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyXun ABS</Data>
+            <Data name="Body:0Xun ABS" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Xun ABS</Data>
+        </Slider>
+        <Slider name="Boob Concave" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Concave" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBoob Concave</Data>
+            <Data name="Body:0Boob Concave" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Boob Concave</Data>
+        </Slider>
+        <Slider name="Belly Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Smooth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Smooth</Data>
+            <Data name="Body:0Belly Smooth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Smooth</Data>
+        </Slider>
+        <Slider name="AB Template" invert="false" default="0">
+            <Data name="True Wasteland BodyAB Template" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyAB Template</Data>
+            <Data name="Body:0AB Template" target="Body:0" local="true">Doom Marine Armor.osd\Body:0AB Template</Data>
+        </Slider>
+        <Slider name="Real Atomic Beauty" invert="false" default="0">
+            <Data name="True Wasteland BodyReal Atomic Beauty" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyReal Atomic Beauty</Data>
+            <Data name="Body:0Real Atomic Beauty" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Real Atomic Beauty</Data>
+        </Slider>
+        <Slider name="New Atomic" invert="false" default="0">
+            <Data name="True Wasteland BodyNew Atomic" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyNew Atomic</Data>
+            <Data name="Body:0New Atomic" target="Body:0" local="true">Doom Marine Armor.osd\Body:0New Atomic</Data>
+        </Slider>
+        <Slider name="Narrow Hips" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Hips" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyNarrow Hips</Data>
+            <Data name="Body:0Narrow Hips" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Narrow Hips</Data>
+        </Slider>
+        <Slider name="Leg Slimmer" invert="false" default="0">
+            <Data name="True Wasteland BodyLeg Slimmer" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyLeg Slimmer</Data>
+            <Data name="Body:0Leg Slimmer" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Leg Slimmer</Data>
+        </Slider>
+        <Slider name="More Chest Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Chest Depth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyMore Chest Depth</Data>
+            <Data name="Body:0More Chest Depth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0More Chest Depth</Data>
+        </Slider>
+        <Slider name="Lower Waist" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Waist" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyLower Waist</Data>
+            <Data name="Body:0Lower Waist" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Lower Waist</Data>
+        </Slider>
+        <Slider name="Wider Back" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Back" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyWider Back</Data>
+            <Data name="Body:0Wider Back" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Wider Back</Data>
+        </Slider>
+        <Slider name="Hips Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Forward" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyHips Forward</Data>
+            <Data name="Body:0Hips Forward" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Hips Forward</Data>
+        </Slider>
+        <Slider name="Lower Back Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyLower Back Smooth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyLower Back Smooth</Data>
+            <Data name="Body:0Lower Back Smooth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Lower Back Smooth</Data>
+        </Slider>
+        <Slider name="Smooth Thighs" invert="false" default="0">
+            <Data name="True Wasteland BodySmooth Thighs" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodySmooth Thighs</Data>
+            <Data name="Body:0Smooth Thighs" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Smooth Thighs</Data>
+        </Slider>
+        <Slider name="Boob Height" invert="false" default="0">
+            <Data name="True Wasteland BodyBoob Height" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBoob Height</Data>
+            <Data name="Body:0Boob Height" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Boob Height</Data>
+        </Slider>
+        <Slider name="Smaller Torso" invert="false" default="0">
+            <Data name="True Wasteland BodySmaller Torso" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodySmaller Torso</Data>
+            <Data name="Body:0Smaller Torso" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Smaller Torso</Data>
+        </Slider>
+        <Slider name="Wider Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyWider Ass" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyWider Ass</Data>
+            <Data name="Body:0Wider Ass" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Wider Ass</Data>
+        </Slider>
+        <Slider name="Ass Stretch" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Stretch" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyAss Stretch</Data>
+            <Data name="Body:0Ass Stretch" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Ass Stretch</Data>
+        </Slider>
+        <Slider name="Narrow Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyNarrow Ass" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyNarrow Ass</Data>
+            <Data name="Body:0Narrow Ass" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Narrow Ass</Data>
+        </Slider>
+        <Slider name="Ass Height" invert="false" default="0">
+            <Data name="True Wasteland BodyAss Height" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyAss Height</Data>
+            <Data name="Body:0Ass Height" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Ass Height</Data>
+        </Slider>
+        <Slider name="Larger Torso" invert="false" default="0">
+            <Data name="True Wasteland BodyLarger Torso" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyLarger Torso</Data>
+            <Data name="Body:0Larger Torso" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Larger Torso</Data>
+        </Slider>
+        <Slider name="Muscular Body" invert="false" default="0">
+            <Data name="True Wasteland BodyMuscular Body" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyMuscular Body</Data>
+            <Data name="Body:0Muscular Body" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Muscular Body</Data>
+        </Slider>
+        <Slider name="Tigersan" invert="false" default="0">
+            <Data name="True Wasteland BodyTigersan" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyTigersan</Data>
+            <Data name="Body:0Tigersan" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Tigersan</Data>
+        </Slider>
+        <Slider name="Breast Narrow" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Narrow" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBreast Narrow</Data>
+            <Data name="Body:0Breast Narrow" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Breast Narrow</Data>
+        </Slider>
+        <Slider name="Breast Curve Down" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve Down" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBreast Curve Down</Data>
+            <Data name="Body:0Breast Curve Down" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Breast Curve Down</Data>
+        </Slider>
+        <Slider name="Breast Curve" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Curve" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBreast Curve</Data>
+            <Data name="Body:0Breast Curve" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Breast Curve</Data>
+        </Slider>
+        <Slider name="Breast Armpit In" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit In" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBreast Armpit In</Data>
+            <Data name="Body:0Breast Armpit In" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Breast Armpit In</Data>
+        </Slider>
+        <Slider name="Breast Armpit Wide" invert="false" default="0">
+            <Data name="True Wasteland BodyBreast Armpit Wide" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBreast Armpit Wide</Data>
+            <Data name="Body:0Breast Armpit Wide" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Breast Armpit Wide</Data>
+        </Slider>
+        <Slider name="Nipple Shape Depth" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Shape Depth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyNipple Shape Depth</Data>
+            <Data name="Body:0Nipple Shape Depth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Nipple Shape Depth</Data>
+        </Slider>
+        <Slider name="Nipple Tips Flat" invert="false" default="0">
+            <Data name="True Wasteland BodyNipple Tips Flat" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyNipple Tips Flat</Data>
+            <Data name="Body:0Nipple Tips Flat" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Nipple Tips Flat</Data>
+        </Slider>
+        <Slider name="Big Rib Cage" invert="false" default="0">
+            <Data name="True Wasteland BodyBig Rib Cage" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBig Rib Cage</Data>
+            <Data name="Body:0Big Rib Cage" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Big Rib Cage</Data>
+        </Slider>
+        <Slider name="Butt Dimples" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Dimples" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyButt Dimples</Data>
+            <Data name="Body:0Butt Dimples" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Butt Dimples</Data>
+        </Slider>
+        <Slider name="Butt Thin" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Thin" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyButt Thin</Data>
+            <Data name="Body:0Butt Thin" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Butt Thin</Data>
+        </Slider>
+        <Slider name="Butt Up" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Up" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyButt Up</Data>
+            <Data name="Body:0Butt Up" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Butt Up</Data>
+        </Slider>
+        <Slider name="Butt Crease" invert="false" default="0">
+            <Data name="True Wasteland BodyButt Crease" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyButt Crease</Data>
+            <Data name="Body:0Butt Crease" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Butt Crease</Data>
+        </Slider>
+        <Slider name="Hips Up" invert="false" default="0">
+            <Data name="True Wasteland BodyHips Up" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyHips Up</Data>
+            <Data name="Body:0Hips Up" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Hips Up</Data>
+        </Slider>
+        <Slider name="Hip Line" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Line" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyHip Line</Data>
+            <Data name="Body:0Hip Line" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Hip Line</Data>
+        </Slider>
+        <Slider name="Hip Rotate Forward" invert="false" default="0">
+            <Data name="True Wasteland BodyHip Rotate Forward" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyHip Rotate Forward</Data>
+            <Data name="Body:0Hip Rotate Forward" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Hip Rotate Forward</Data>
+        </Slider>
+        <Slider name="Pelvis Up" invert="false" default="0">
+            <Data name="True Wasteland BodyPelvis Up" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyPelvis Up</Data>
+            <Data name="Body:0Pelvis Up" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Pelvis Up</Data>
+        </Slider>
+        <Slider name="Pussy Down" invert="false" default="0">
+            <Data name="True Wasteland BodyPussy Down" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyPussy Down</Data>
+            <Data name="Body:0Pussy Down" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Pussy Down</Data>
+        </Slider>
+        <Slider name="Pussy Pinch" invert="false" default="0">
+            <Data name="True Wasteland BodyPussy Pinch" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyPussy Pinch</Data>
+            <Data name="Body:0Pussy Pinch" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Pussy Pinch</Data>
+        </Slider>
+        <Slider name="Thigh Tone" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Tone" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyThigh Tone</Data>
+            <Data name="Body:0Thigh Tone" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thigh Tone</Data>
+        </Slider>
+        <Slider name="Thigh Together" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Together" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyThigh Together</Data>
+            <Data name="Body:0Thigh Together" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thigh Together</Data>
+        </Slider>
+        <Slider name="Thigh Apart" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Apart" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyThigh Apart</Data>
+            <Data name="Body:0Thigh Apart" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thigh Apart</Data>
+        </Slider>
+        <Slider name="Thigh Back Thick" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Back Thick" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyThigh Back Thick</Data>
+            <Data name="Body:0Thigh Back Thick" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thigh Back Thick</Data>
+        </Slider>
+        <Slider name="Thigh Gap" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Gap" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyThigh Gap</Data>
+            <Data name="Body:0Thigh Gap" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thigh Gap</Data>
+        </Slider>
+        <Slider name="Knee Detail" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Detail" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyKnee Detail</Data>
+            <Data name="Body:0Knee Detail" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Knee Detail</Data>
+        </Slider>
+        <Slider name="Abdomin Down" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Down" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyAbdomin Down</Data>
+            <Data name="Body:0Abdomin Down" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Abdomin Down</Data>
+        </Slider>
+        <Slider name="Abdomin Size" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Size" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyAbdomin Size</Data>
+            <Data name="Body:0Abdomin Size" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Abdomin Size</Data>
+        </Slider>
+        <Slider name="Smoother Belly" invert="false" default="0">
+            <Data name="True Wasteland BodySmoother Belly" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodySmoother Belly</Data>
+            <Data name="Body:0Smoother Belly" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Smoother Belly</Data>
+        </Slider>
+        <Slider name="Belly Define" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Define" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Define</Data>
+            <Data name="Body:0Belly Define" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Define</Data>
+        </Slider>
+        <Slider name="Belly Diameter" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Diameter" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Diameter</Data>
+            <Data name="Body:0Belly Diameter" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Diameter</Data>
+        </Slider>
+        <Slider name="Belly Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Up" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Up</Data>
+            <Data name="Body:0Belly Up" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Up</Data>
+        </Slider>
+        <Slider name="Belly Tight" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Tight" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Tight</Data>
+            <Data name="Body:0Belly Tight" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Tight</Data>
+        </Slider>
+        <Slider name="Belly In" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly In" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly In</Data>
+            <Data name="Body:0Belly In" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly In</Data>
+        </Slider>
+        <Slider name="Belly Rotate Up" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Rotate Up" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Rotate Up</Data>
+            <Data name="Body:0Belly Rotate Up" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Rotate Up</Data>
+        </Slider>
+        <Slider name="Belly Wider" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Wider" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Wider</Data>
+            <Data name="Body:0Belly Wider" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Wider</Data>
+        </Slider>
+        <Slider name="Chest Definition" invert="false" default="0">
+            <Data name="True Wasteland BodyChest Definition" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyChest Definition</Data>
+            <Data name="Body:0Chest Definition" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Chest Definition</Data>
+        </Slider>
+        <Slider name="Belly Line" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Line" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Line</Data>
+            <Data name="Body:0Belly Line" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Line</Data>
+        </Slider>
+        <Slider name="Thin Belly" invert="false" default="0">
+            <Data name="True Wasteland BodyThin Belly" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyThin Belly</Data>
+            <Data name="Body:0Thin Belly" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thin Belly</Data>
+        </Slider>
+        <Slider name="Belly Thicc" invert="false" default="0">
+            <Data name="True Wasteland BodyBelly Thicc" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBelly Thicc</Data>
+            <Data name="Body:0Belly Thicc" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Belly Thicc</Data>
+        </Slider>
+        <Slider name="Biceps" invert="false" default="0">
+            <Data name="True Wasteland BodyBiceps" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBiceps</Data>
+            <Data name="Body:0Biceps" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Biceps</Data>
+        </Slider>
+        <Slider name="Back Bulge" invert="false" default="0">
+            <Data name="True Wasteland BodyBack Bulge" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBack Bulge</Data>
+            <Data name="Body:0Back Bulge" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Back Bulge</Data>
+        </Slider>
+        <Slider name="Thigh Muscular" invert="false" default="0">
+            <Data name="True Wasteland BodyThigh Muscular" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyThigh Muscular</Data>
+            <Data name="Body:0Thigh Muscular" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thigh Muscular</Data>
+        </Slider>
+        <Slider name="Knee Thing" invert="false" default="0">
+            <Data name="True Wasteland BodyKnee Thing" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyKnee Thing</Data>
+            <Data name="Body:0Knee Thing" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Knee Thing</Data>
+        </Slider>
+        <Slider name="More Abs" invert="false" default="0">
+            <Data name="True Wasteland BodyMore Abs" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyMore Abs</Data>
+            <Data name="Body:0More Abs" target="Body:0" local="true">Doom Marine Armor.osd\Body:0More Abs</Data>
+        </Slider>
+        <Slider name="Abdomin Smooth" invert="false" default="0">
+            <Data name="True Wasteland BodyAbdomin Smooth" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyAbdomin Smooth</Data>
+            <Data name="Body:0Abdomin Smooth" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Abdomin Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Flex" invert="false" default="0">
+            <Data name="True Wasteland BodyShoulder Flex" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyShoulder Flex</Data>
+            <Data name="Body:0Shoulder Flex" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Shoulder Flex</Data>
+        </Slider>
+        <Slider name="Plump Ass" invert="false" default="0">
+            <Data name="True Wasteland BodyPlump Ass" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyPlump Ass</Data>
+            <Data name="Body:0Plump Ass" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Plump Ass</Data>
+        </Slider>
+        <Slider name="Thicc Knees" invert="false" default="0">
+            <Data name="True Wasteland BodyThicc Knees" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyThicc Knees</Data>
+            <Data name="Body:0Thicc Knees" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Thicc Knees</Data>
+        </Slider>
+        <Slider name="Upper Arm Mass" invert="false" default="0">
+            <Data name="True Wasteland BodyUpper Arm Mass" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyUpper Arm Mass</Data>
+            <Data name="Body:0Upper Arm Mass" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Upper Arm Mass</Data>
+        </Slider>
+        <Slider name="Body aTightTiger" invert="false" default="0">
+            <Data name="True Wasteland BodyBody aTightTiger" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBody aTightTiger</Data>
+            <Data name="Body:0Body aTightTiger" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Body aTightTiger</Data>
+        </Slider>
+        <Slider name="Body Clamp" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Clamp" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBody Clamp</Data>
+            <Data name="Body:0Body Clamp" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Body Clamp</Data>
+        </Slider>
+        <Slider name="Body WINININININ" invert="false" default="0">
+            <Data name="True Wasteland BodyBody WINININININ" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBody WINININININ</Data>
+            <Data name="Body:0Body WINININININ" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Body WINININININ</Data>
+        </Slider>
+        <Slider name="Body Keep" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Keep" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBody Keep</Data>
+            <Data name="Body:0Body Keep" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Body Keep</Data>
+        </Slider>
+        <Slider name="Body a Soul Body" invert="false" default="0">
+            <Data name="True Wasteland BodyBody a Soul Body" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBody a Soul Body</Data>
+            <Data name="Body:0Body a Soul Body" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Body a Soul Body</Data>
+        </Slider>
+        <Slider name="Body Vanilla Coke" invert="false" default="0">
+            <Data name="True Wasteland BodyBody Vanilla Coke" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBody Vanilla Coke</Data>
+            <Data name="Body:0Body Vanilla Coke" target="Body:0" local="true">Doom Marine Armor.osd\Body:0Body Vanilla Coke</Data>
+        </Slider>
+        <Slider name="BodyZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="True Wasteland BodyBodyZap" target="True Wasteland Body" local="true">Doom Marine Armor.osd\True Wasteland BodyBodyZap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
