@@ -13,4 +13,4 @@ Conversions of Vanilla and DLC clothing and armor to [True Wasteland Body](https
 
 ### Notes
 For now, this repository is rapidly changing. You could be updating these files daily.  
-Some outfits with be subdivided to provide increased detail when morphed.
+Some outfits will be subdivided to provide increased detail when morphed.
